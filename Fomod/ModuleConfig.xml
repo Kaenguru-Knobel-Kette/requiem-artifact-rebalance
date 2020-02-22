@@ -1,11 +1,11 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
 	<moduleName>Requiem - Artifact Rebalance</moduleName>
 	<installSteps order="Explicit">
-		<installStep name="Artifact Rebalance">
+		<installStep name="Requiem - Artifact Rebalance">
 			<optionalFileGroups order="Explicit">
-				<group name="Modules" type="SelectAny">
+				<group name="Main File" type="SelectAny">
 					<plugins order="Explicit">
-						<plugin name="Main File">
+						<plugin name="Artifact Rebalance">
 							<description>
 								A comprehensive rebalance of artifacts in Requiem - The Oldschool Roleplaying Overhaul.
 							</description>
@@ -18,7 +18,7 @@
 						</plugin>
 					</plugins>
 				</group>
-				<group name="Patches" type="SelectAny">
+				<group name="Compatibility Patches" type="SelectAny">
 					<plugins order="Explicit">
 						<plugin name="Improved Closefaced Helmets">
 							<description>
