@@ -159,7 +159,7 @@ Jyrik Gauldurson's Staff evokes a bolt of lightning that deals 60 points of shoc
 Rahgot's Staff is enchanted with Paralysis.
 Sanguine's Rose summons a Dremora for 60 seconds. The type of Dremora depends on your alcohol level (health buff): 0-24 -> Naked Dremora, 25-49 -> Dremora Archer, 50-99 -> Dremora Warrior, 100+ -> Dremora Mage. Doesn't use charges.
 Skull of Corruption causes creatures and people up to level 666 to flee from combat for 30 seconds. Additionally reduces armor rating by 500 points and magic resistance by 50% when powered with dreams collected from sleeping people. Doesn't use charges.
-Staff of Magnus absorbs 500 points of magicka per second. When the target has less than 10 magicka, it absorbs 500 points of health instead. Has 5000 charges and cannot be recharged.
+Staff of Magnus absorbs 100 points of health and 500 points of magicka per second. When the target has less than 10 magicka, it absorbs an additional 500 points of health. Has 5000 charges and cannot be recharged.
 Staff of Ruunvald calms creatures and people up to level 50 for 30 seconds.
 
 Oghma Infinium only grants 7 perk points.
