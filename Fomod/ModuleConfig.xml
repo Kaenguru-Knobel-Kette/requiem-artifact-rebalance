@@ -1,0 +1,49 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>Requiem - Artifact Rebalance</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="Artifact Rebalance">
+			<optionalFileGroups order="Explicit">
+				<group name="Modules" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Main File">
+							<description>
+								A comprehensive rebalance of artifacts in Requiem - The Oldschool Roleplaying Overhaul.
+							</description>
+							<files>
+								<folder source="Requiem - Artifact Rebalance" destination=""/>
+							</files>
+							<typeDescriptor>
+								<type name="Required"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Patches" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Improved Closefaced Helmets">
+							<description>
+								Compatiblity patch for Improved Closefaced Helmets.
+							</description>
+							<files>
+								<folder source="Requiem - Artifact Rebalance - ICH" destination=""/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Requiem - Improved Closefaced Helmets.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>
