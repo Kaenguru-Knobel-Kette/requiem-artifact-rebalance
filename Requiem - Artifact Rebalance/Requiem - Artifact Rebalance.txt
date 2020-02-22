@@ -111,7 +111,7 @@ Auriel's Shield stores the energy of blocked attacks. Performing a power bash wi
 Dawnguard Rune Shield increases the amount of blockable damage by 40% and increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 50 points per second. Armor type is changed to heavy armor.
 Shield of Solitude increases magic resistance by 20% and increases the amount of blockable damage by 35%.
 Shield of Ysgramor increases magic resistance by 30%. Weight is increased to 20.
-Spellbreaker creates a ward that protects against spells for up to 50 points when blocking. Ward power increases by 100 points for every 5 diseases contracted (capped at 25 diseases).
+Spellbreaker reduces maximum magicka of nearby mages by 100 points and blocking creates a ward that protects against spells for up to 100 points when blocking. Reduced magicka and ward power increases by 200 points for every 5 diseases contracted (capped at 25 diseases).
 
 Keening doesn't use charges. Base damage is decreased to 13.
 Mehrunes' Razor deals 10 points of irresistible damage for killing at least 100 people, animals, creatures, undead, daedra and dwarven constructs (each enemy type counts separately). Doesn't use charges. Base damage is decreased to 10.
