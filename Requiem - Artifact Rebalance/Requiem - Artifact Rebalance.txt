@@ -10,7 +10,7 @@ Miraak increases magicka by 400 (Rank II) and reduces shout cooldown by 20%.
 Morokei increases magicka regeneration by 450%.
 Nahkriin increases magnitude and duration of spells by 30%.
 Otar increases fire, frost and shock resistance by 30%.
-Rahgot increases stamina by 75 (Rank II) and stamina regeneration by 200%.
+Rahgot increases health by 75 (Rank II), disease resistance by 100% and poison resistance by 100%.
 Vokun reduces spell cost by 20%.
 Volsung increases one-handed and two-handed damage by 30%.
 Zahkriisos increases armor rating by 250 and health by 75 (Rank II).
