@@ -15,10 +15,10 @@ Vokun reduces spell cost by 20%.
 Volsung increases one-handed and two-handed damage by 30%.
 Zahkriisos increases armor rating by 250 and health by 75 (Rank II).
 
-Aetherial Helmet reduces spell cost by 20%.
-Aetherial Armor reduces spell cost by 20%. Inherits additional damage resistances from Dwarven Armor.
-Aetherial Gauntlets increase magicka (Rank II) by 75 points.
-Aetherial Boots increase carry weight by 50.
+Aetherium Helmet reduces spell cost by 20%.
+Aetherium Armor reduces spell cost by 20%. Inherits additional damage resistances from Dwarven Armor.
+Aetherium Gauntlets increase magicka (Rank II) by 75 points.
+Aetherium Boots increase carry weight by 50.
 Ancient Shrouded Cowl increases ranged damage by 30%.
 Ancient Shrouded Armor increases magic resistance by 20%, poison resistance by 50% and disease resistance by 50%.
 Ancient Shrouded Gloves increase one-handed damage by 30%.
@@ -87,7 +87,7 @@ Arch-Mage's Robes reduce spell cost by 20%, increase magicka regeneration by 300
 Ebony Mail increases magic resistance by 1% and fire resistance by 3% for every three murders (capped at 60 murders). Armor rating and weight is increased to match an ebony cuirass.
 Savior's Hide increases magic resistance by 10%, poison and disease resistance by 30%. Whenever a great beast (Giant Slaughterfish, Gigantic Mudcrab, Gorak the Trollslayer, Kru'ul, Ragnok, Snow, Ulik) is slain for the first time, magic resistance is increased by 3% and poison and disease resistance by 10%.
 
-Aetherial Crown restores 10 magicka per second.
+Aetherium Crown restores 10 magicka per second.
 Ancient Helmet of the Unburned increases fire resistance by 100%.
 Diadem of the Savant reduces spell cost by 16%.
 Helm of Yngol increases frost resistance by 50%.
@@ -106,7 +106,7 @@ Savos Aren's Amulet increases magic resistance by 20%.
 Ring of Hircine increases health by 75 points (Rank II) and grants unlimited Werewolf transformations.
 Ring of Namira allows feeding on corpses which grants Namira's Blessing. Namira's Blessing increases Health, Magicka and Stamina by 50 for 7200 seconds as long as you wear her ring.
 
-Blocking with the Aetherial Shield renders the wielder ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
+Blocking with the Aetherium Shield renders the wielder ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
 Auriel's Shield partially reflects blocked melee attacks back to the enemy and stores the remaining energy. Performing a power bash will release the stored energy and deal 100/250/500 damage for 5/10/15 blocked hits. Armor type is changed to light armor.
 Dawnguard Rune Shield increases the amount of blockable damage by 40% and increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 50 points per second. Armor type is changed to heavy armor.
 Shield of Solitude increases magic resistance by 20% and increases the amount of blockable damage by 35%.
@@ -150,7 +150,7 @@ Firiniel's End does 20 points of shock damage and turns targets into an ash pile
 Jon's Crossbow does 1000 damage to anything that carries fruits.
 Spectral Bow drains 100 points of stamina for 3 seconds. Doesn't use charges.
 
-Aetherial Staff summons an Enchanted Sphere for 300 seconds.
+Aetherium Staff summons an Enchanted Sphere for 300 seconds.
 Dragon Priest Staff is enchanted with Souldrinker.
 Forsworn Staff is enchanted with Firebolts.
 Halldir's Staff commands a weak-minded target to commit suicide by slicing their wrist and traps its soul should it die. The staff behaves as if the caster has an illusion skill of 100 but no perks.
@@ -177,5 +177,5 @@ The White Phial refills every 15 minutes (real time) or when you go to sleep. It
  - Completely restores health.
 
 Master Robes of Illusion are moved to the Pelagius Wing.
-Aetherial armor set is moved to the "hidden" room to the right of the Atherium Forge. Dwarven armor with powerful enchantments can be found in the former location of the Aetherium armor.
+Aetherium armor set is moved to the "hidden" room to the right of the Atherium Forge. Dwarven armor with powerful enchantments can be found in the former locations of the Aetherium armor pieces.
 Harbinger armor set is in Kodlak's end table during Glory of the Dead.
