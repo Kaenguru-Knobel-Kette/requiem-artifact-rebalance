@@ -93,7 +93,7 @@ Diadem of the Savant reduces spell cost by 16%.
 Helm of Yngol increases frost resistance by 50%.
 Masque of Clavicus Vile improves prices by 30% and intimidation checks in dialogue will almost always succeed. Armor type is changed to clothing.
 
-Movarth's Boots muffle movement by 50%.
+Movarth's Boots grant walkerwalking.
 
 Gauldur Amulet Fragments increase Health/Stamina/Magicka by 25 points (Rank II).
 Gauldur Amulet increases Health, Stamina and Magicka by 25 points (Rank II).
