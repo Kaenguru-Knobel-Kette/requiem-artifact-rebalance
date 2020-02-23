@@ -12,7 +12,7 @@ Nahkriin increases magnitude and duration of spells by 30%.
 Otar increases fire, frost and shock resistance by 30%.
 Rahgot increases health by 75 (Rank II), disease resistance by 100% and poison resistance by 100%.
 Vokun increases sneaking by 25%, lockpicking skill by 21, lockpicking expertise by 20 and pickpocketing is 20% easier.
-Volsung increases one-handed and two-handed damage by 30%.
+Volsung increases ranged damage by 30%.
 Zahkriisos increases armor rating by 250 and health by 75 (Rank II).
 
 Aetherium Helmet reduces spell cost by 20%.
