@@ -13,7 +13,7 @@ Otar increases fire, frost and shock resistance by 30%.
 Rahgot increases health by 75 (Rank II), disease resistance by 100% and poison resistance by 100%.
 Vokun increases sneaking by 25%, lockpicking skill by 21, lockpicking expertise by 20 and pickpocketing is 20% easier.
 Volsung increases ranged damage by 30%.
-Zahkriisos increases armor rating by 250 and health by 75 (Rank II).
+Zahkriisos increases damage dealt with Bloodskale Blade by 50% and increases damage of the energy blast by 70 points.
 
 Aetherium Helmet reduces spell cost by 20%.
 Aetherium Armor reduces spell cost by 20%. Inherits additional damage resistances from Dwarven Armor.
@@ -129,6 +129,7 @@ Poacher's Axe deals 10 points of extra damage to animals.
 
 Mace of Molag Bal absorbs 15 points of stamina and 30 points of magicka and makes the target vulnerable to soul gems for 1 second. For every 100 souls traped, an additional 10 points of stamina and 20 points of magicka are absored and the target becomes vulnerable to soul gems for 1 more second (capped at 600 souls traped). Doesn't use charges. Base damage is decreased to 15.
 
+Bloodskal Blade releases an energy blast with power attacks that deals 30 points of magic damage. Doesn't use charges. Base damage is decreased to 17 and weight to 12.
 Ebony Blade absorbs 5 points of health for every two friends killed by the blade (capped at 20 kills). Doesn't use charges. Victims do not become hostile.
 
 Rueful Axe increases Two-Handed Expertise by 80. Base damage is decreased to 22.
