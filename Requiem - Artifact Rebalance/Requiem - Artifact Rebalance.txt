@@ -92,7 +92,7 @@ Movarth's Boots grant walkerwalking.
 
 Gauldur Amulet Fragments increase Health/Stamina/Magicka by 25 points (Rank II).
 Gauldur Amulet increases Health, Stamina and Magicka by 25 points (Rank II).
-Kyne's Token increases damage dealt with ranged weapons by 25% and damage taken from animals is reduced by 20%.
+Kyne's Token grants Kyne's Blessing or Kyne's Retribution to Nords who completed Kyne's Sacred Trials.
 Locket of Saint Jiub increases Carry Weight by 500 points.
 Necromancer's Amulet increases magicka by 200 if you have at least 220 base magicka, else it damages health by 20 points per second. Allows crafting black soulgems with the Soul Gem Mastery perk.
 Saarthal Amulet reduces spell cost by 12%.
@@ -162,6 +162,23 @@ Oghma Infinium only grants 7 perk points.
 Paralyze enchantments have a 5% chance of triggering and apply regardless of the target's magic resistance but are blocked by Stamina II enchantments.
 
 Dragonslayer's Blessing increases damage to dragons by 10%.
+Kyne's Blessing soothes wild beasts, who lose their desire to fight or flee. Additionally:
+ - Completing The Blessings of Nature by returning a sapling increases stamina by 50.
+ - Completing Glory of the Dead up to stage 30 increases one-handed, two-handed and ranged damage by 30%.
+ - Completing Climb the Steps reduces shout cooldown by 5%.
+ - Completing A Blade in the Dark reduces shout cooldown by 15%.
+ - Completing Alduin's Bane reduces shout cooldown by 15%.
+ - Completing Dragonslayer reduces shout cooldown by 15%.
+Kyne's Retribution damages health by 5 points per second for
+ - At least one murder
+ - 10 or more stolen items
+ - Joining the Dark Brotherhood or Thieves Guild
+ - Killing Paarthunax
+ - Wearing a dragon priest mask
+ - Using a Daedric artifact
+ - Being a vampire or werewolf
+ - Having the blessing of another Aedra
+Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
 The White Phial refills every 15 minutes (real time) or when you go to sleep. It has one of the following effects:
  - Increases magic resistance by 25% for 300 seconds.
