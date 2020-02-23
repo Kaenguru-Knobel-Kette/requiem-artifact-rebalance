@@ -124,7 +124,8 @@ Red Eagle's Bane does 10 points of fire damage and absorbs 10 points of health a
 Spectral Sword drains 100 points of magicka for 3 seconds. Doesn't use charges.
 
 Dawnguard Rune War Axe deals 10 points of sun damage per 10 undead killed with the war axe (capped at 100 undead killed). Doesn't use charges.
-Poacher's Axe does 10 points of extra damage to animals.
+Kyne's War Axe deals 10 points of shock damage when Kyne's Blessing is active. Deals another 15 points of shock damage for each of Kyne's greater blessings. Doesn't use charges.
+Poacher's Axe deals 10 points of extra damage to animals.
 
 Mace of Molag Bal absorbs 15 points of stamina and 30 points of magicka and makes the target vulnerable to soul gems for 1 second. For every 100 souls traped, an additional 10 points of stamina and 20 points of magicka are absored and the target becomes vulnerable to soul gems for 1 more second (capped at 600 souls traped). Doesn't use charges. Base damage is decreased to 15.
 
