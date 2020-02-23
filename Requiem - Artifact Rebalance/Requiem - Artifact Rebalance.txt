@@ -2,7 +2,7 @@ The values listed for melee weapon damage are prior to running the Reqtificator.
 
 Dragon priest masks armor type can be changed on the workbench in Bromjunaar Sanctuary. Light armor rating is 70 and heavy armor rating is 125. Tempering requires Legendary Blacksmithing.
 Ahzidal increases enchantment power by 10%.
-Dukaan increases elemental damage by 25%.
+Dukaan doubles sneak attack damage against all targets.
 Hevnoraak increases disease and poison resistance by 100%.
 Konahrik increases health, stamina and magicka by 100 (Rank II). Shouts are 25% stronger, last 25% longer and cooldown is reduced by 20%. Restores 50 health per second. Each hit has a chance of 25% to restore 100 health for 3 seconds and cast a fire, frost and shock cloak for 10 seconds. Each hit has a chance of 5% to spawn a ghostly dragon priest.
 Krosis increases Lockpicking by 21, Lockpicking Expertise by 20, damage with ranged weapons by 25% and sneaking by 25%.
