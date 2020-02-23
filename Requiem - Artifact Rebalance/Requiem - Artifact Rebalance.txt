@@ -124,7 +124,7 @@ Dawnbreaker deals 60 points of sun damage to undead and turns undead up to level
 Dragonbane does 150 irresistible damage to dragons. Base damage is decreased to 12.
 Ghostblade completely ignores armor rating.
 Harkon's Sword absorbs 50 points of health, stamina and magicka, soultraps for 5 seconds and has a chance to paralyze for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
-Miraak's sword has an increased range to match its animation and absorbs 40 points of stamina.
+Miraak's Sword absorbs 50 points of health, magicka and stamina. The sword has increased range to match its animation. Doesn't use charges.
 Red Eagle's Bane does 10 points of fire damage and absorbs 10 points of health and stamina.
 Spectral Sword drains 100 points of magicka for 3 seconds. Doesn't use charges.
 
