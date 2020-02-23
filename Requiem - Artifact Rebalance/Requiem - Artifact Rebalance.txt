@@ -137,7 +137,7 @@ Ebony Blade absorbs 5 points of health for every two friends killed by the blade
 
 Rueful Axe increases Two-Handed Expertise by 80. Base damage is decreased to 22.
 Spectral Battleaxe drains 100 points of health for 3 seconds. Doesn't use charges.
-Wuuthrad deals 50 points of shock damage and an additional 150 points of shock damage to Elves and giants. Doesn't use charges. Base damage is decreased to 23. Reduces shock resistance by 40% if wielded by an Elf.
+Wuuthrad deals 50 points of shock damage. Additionally it deals 50 points of shock damage to Bretons and Orcs, 150 points of shock damage to Dark Elves, High Elves and Wood Elves and 250 points of shock damage to giants. Doesn't use charges. Base damage is decreased to 23. Reduces shock resistance by 20% if wielded by a Breton or Orc and 40% if wielded by a Dark Elf, High Elf or Wood Elf.
 
 Dawnguard Rune Warhammer deals 10 points of sun damage per 10 undead killed with the warhammer (capped at 100 undead killed).
 Trollsbane does 5 points of fire damage for 5 seconds to trolls.
