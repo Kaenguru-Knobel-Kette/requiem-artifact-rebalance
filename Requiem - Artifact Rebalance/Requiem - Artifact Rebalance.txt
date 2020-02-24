@@ -20,6 +20,7 @@ Aetherium Armor reduces spell cost by 20%. Inherits additional damage resistance
 Aetherium Gauntlets increase magicka (Rank II) by 75 points.
 Aetherium Boots increase carry weight by 50.
 Ahzidal's Armor paralyzes enemies who strike you with a melee attack.
+Ahzidal's Gauntlets absorb 75% of the magicka from incoming spells that are blocked by a ward.
 Ahzidal's Boots double duration of summon spells and increase range tenfold.
 Ancient Shrouded Cowl increases ranged damage by 30%.
 Ancient Shrouded Armor increases magic resistance by 20%, poison resistance by 50% and disease resistance by 50%.
