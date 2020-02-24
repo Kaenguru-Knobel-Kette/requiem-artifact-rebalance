@@ -19,6 +19,7 @@ Aetherium Helmet reduces spell cost by 20%.
 Aetherium Armor reduces spell cost by 20%. Inherits additional damage resistances from Dwarven Armor.
 Aetherium Gauntlets increase magicka (Rank II) by 75 points.
 Aetherium Boots increase carry weight by 50.
+Ahzidal's Helmet grants the ability to see in the dark. Increases armor rating by 200 additional points when wearing all of Ahzidal's armor.
 Ahzidal's Armor paralyzes enemies who strike you with a melee attack.
 Ahzidal's Gauntlets absorb 75% of the magicka from incoming spells that are blocked by a ward.
 Ahzidal's Boots double duration of summon spells and increase range tenfold.
