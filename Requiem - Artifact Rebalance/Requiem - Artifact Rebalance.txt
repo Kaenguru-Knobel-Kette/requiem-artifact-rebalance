@@ -19,6 +19,7 @@ Aetherium Helmet reduces spell cost by 20%.
 Aetherium Armor reduces spell cost by 20%. Inherits additional damage resistances from Dwarven Armor.
 Aetherium Gauntlets increase magicka (Rank II) by 75 points.
 Aetherium Boots increase carry weight by 50.
+Ahzidal's Armor of Retribution paralyzes enemies who strike you with a melee attack.
 Ancient Shrouded Cowl increases ranged damage by 30%.
 Ancient Shrouded Armor increases magic resistance by 20%, poison resistance by 50% and disease resistance by 50%.
 Ancient Shrouded Gloves increase one-handed damage by 30%.
