@@ -23,6 +23,7 @@ Ahzidal's Helmet grants the ability to see in the dark. Increases armor rating b
 Ahzidal's Armor paralyzes enemies who strike you with a melee attack.
 Ahzidal's Gauntlets absorb 75% of the magicka from incoming spells that are blocked by a ward.
 Ahzidal's Boots double duration of summon spells and increase range tenfold.
+Ahzidal's Amulet increases summon limit by 1.
 Ahzidal's Ring causes summoned skeletons to explode in a fire blaze when they attack in melee or are hit.
 Ancient Shrouded Cowl increases ranged damage by 30%.
 Ancient Shrouded Armor increases magic resistance by 20%, poison resistance by 50% and disease resistance by 50%.
