@@ -24,7 +24,7 @@ Ahzidal's Armor paralyzes enemies who strike you with a melee attack.
 Ahzidal's Gauntlets absorb 75% of the magicka from incoming spells that are blocked by a ward.
 Ahzidal's Boots double duration of summon spells and increase range tenfold.
 Ahzidal's Amulet increases summon limit by 1.
-Ahzidal's Ring causes summoned skeletons to explode in a fire blaze when they attack in melee or are hit.
+Ahzidal's Ring causes summoned skeletons to explode for 200 points of damage when they attack in melee or are hit.
 Ancient Shrouded Cowl increases ranged damage by 30%.
 Ancient Shrouded Armor increases poison resistance by 100% and magic resistance by 20%.
 Ancient Shrouded Gloves increase one-handed damage by 30%.
