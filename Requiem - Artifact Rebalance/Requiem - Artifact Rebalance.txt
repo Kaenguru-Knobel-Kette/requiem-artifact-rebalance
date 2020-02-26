@@ -41,7 +41,7 @@ Dawnguard Shield increases the amount of blockable damage by 30% and increases b
 Dwarven Helmet of Arkngthamz increases lockpicking skill by 18 and lockpicking expertise by 20 points.
 Dwarven Armor of Mzulft increases magic resistance by 20%.
 Dwarven Gauntlets of Raldbthar increase one-handed or two-handed damage by 30%.
-Dwarven Boots of Bthar-Zel increase Stamina (Rank II) by 70.
+Dwarven Boots of Bthar-Zel increase stamina (Rank II) by 70.
 Galmar's Helmet increases health regeneration by 100%.
 Galmar's Armor increases health by 70 (Rank II).
 Galmar's Gauntlets increase two-handed damage by 30%.
@@ -77,7 +77,7 @@ Dawnguard Warhammer turns undead up to level 30 for 5 seconds. Also deals 30 add
 Ancano's Robes reduce destruction spell cost by 20% and increase magicka regeneration by 300%.
 Ancano's Gloves increase Magicka by 70 points (Rank II).
 Ancono's Boots increase fire, frost and shock resistance by 25%.
-Miraak's Robes increase poison and disease resistance by 100% and add a chance of 15% to absorb the magicka from incoming spells. Chance on hit to spawn a tentacle explosion.
+Miraak's Robes increase poison and disease resistance by 100% and add a chance of 15% to absorb the magicka from incoming spells. Creates a tentacle explosion when hit (5 seconds cooldown).
 Mirakk's Gloves add a chance of 5% to absorb the magicka from incoming spells and increase damage of venomous spells by 50%.
 Miraak's Boots add a chance of 5% to absorb the magicka from incoming spells and increase effective mass by 2.
 The Greybeard's Robes decrease shouting cooldown by 10%.
@@ -94,25 +94,25 @@ Diadem of the Savant reduces spell cost by 16%.
 Helm of Yngol increases frost resistance by 50%.
 Masque of Clavicus Vile improves prices by 30% and intimidation checks in dialogue will almost always succeed. Armor type is changed to clothing.
 
-Movarth's Boots grant walkerwalking.
+Movarth's Boots grant waterwalking.
 
-Gauldur Amulet Fragments increase Health/Stamina/Magicka by 25 points (Rank II).
-Gauldur Amulet increases Health, Stamina and Magicka by 25 points (Rank II).
+Gauldur Amulet Fragments increase health/stamina/magicka by 25 points (Rank II).
+Gauldur Amulet increases health, stamina and magicka by 25 points (Rank II).
 Kyne's Token grants Kyne's Blessing or Kyne's Retribution to Nords who completed Kyne's Sacred Trials.
-Locket of Saint Jiub increases Carry Weight by 500 points.
-Necromancer's Amulet increases magicka by 200 if you have at least 220 base magicka, else it damages health by 20 points per second. Allows crafting black soulgems with the Soul Gem Mastery perk.
+Locket of Saint Jiub increases carry weight by 500 points.
+Necromancer's Amulet increases magicka by 200 if you have at least 220 base magicka, else it damages health by 20 points per second. Black soulgems can be crafted at a smelter if you have the Soul Gem Mastery perk and the Necromancer's Amulet is equipped.
 Saarthal Amulet reduces spell cost by 12%.
 Savos Aren's Amulet increases magic resistance by 20%.
 
-Ring of Hircine increases health by 75 points (Rank II) and grants unlimited Werewolf transformations.
-Ring of Namira allows feeding on corpses which grants Namira's Blessing. Namira's Blessing increases Health, Magicka and Stamina by 50 for 7200 seconds as long as you wear her ring.
+Ring of Hircine increases health by 75 points (Rank II) and grants unlimited transformations to Werewolves.
+Ring of Namira allows feeding on corpses which grants Namira's Blessing.
 
 Blocking with the Aetherium Shield renders the wielder ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
 Auriel's Shield partially reflects blocked melee attacks back to the enemy and stores the remaining energy. Performing a power bash will release the stored energy and deal 100/250/500 damage for 5/10/15 blocked hits. Armor type is changed to light armor.
 Dawnguard Rune Shield increases the amount of blockable damage by 40% and increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 50 points per second. Armor type is changed to heavy armor.
 Shield of Solitude increases magic resistance by 20% and increases the amount of blockable damage by 35%.
 Shield of Ysgramor increases magic resistance by 30%. Weight is increased to 20.
-Spellbreaker reduces maximum magicka of nearby mages by 100 points and blocking creates a ward that protects against spells for up to 100 points when blocking. Reduced magicka and ward power increases by 200 points for every 5 diseases contracted (capped at 25 diseases).
+Spellbreaker reduces maximum magicka of nearby mages by 100 points and blocking creates a ward that protects against spells for up to 100 damage when blocking. Magicka reduction and ward power increase by 200 points for every 5 diseases contracted (capped at 25 diseases).
 
 Keening doesn't use charges. Base damage is decreased to 13.
 Mehrunes' Razor deals 10 points of irresistible damage for killing at least 100 people, animals, creatures, undead, daedra and dwarven constructs (each enemy type counts separately). Doesn't use charges. Base damage is decreased to 10.
@@ -123,7 +123,7 @@ Bolar's Oathblade deals 30 irresistible damage to Thalmor and makes them flee co
 Chillrend does 30 points of frost damage and has a chance to paralyze for 2 seconds.
 Dawnbreaker deals 60 points of sun damage to undead and turns undead up to level 35. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 damage. Doesn't use charges. Base damage is decreased to 9.
 Dragonbane does 150 irresistible damage to dragons. Base damage is decreased to 12.
-Ghostblade completely ignores armor rating.
+Ghostblade completely ignores armor rating. This doesn't include inherent damage reductions against slashing damage.
 Harkon's Sword absorbs 50 points of health, stamina and magicka, soultraps for 5 seconds and has a chance to paralyze for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
 Miraak's Sword absorbs 50 points of health, magicka and stamina. The sword has increased range to match its animation. Doesn't use charges.
 Red Eagle's Bane does 10 points of fire damage and absorbs 10 points of health and stamina.
@@ -138,13 +138,13 @@ Mace of Molag Bal absorbs 10 points of stamina and 20 points of magicka for ever
 Bloodskal Blade releases an energy blast with power attacks that deals 30 points of magic damage. Doesn't use charges. Base damage is decreased to 17 and weight to 12.
 Ebony Blade absorbs 5 points of health for every two friends killed by the blade (capped at 20 kills). Doesn't use charges. Victims do not become hostile.
 
-Rueful Axe increases Two-Handed Expertise by 80. Base damage is decreased to 22.
+Rueful Axe increases two-handed expertise by 80. Base damage is decreased to 22.
 Spectral Battleaxe drains 100 points of health for 3 seconds. Doesn't use charges.
 Wuuthrad deals 50 points of shock damage. Additionally it deals 50 points of shock damage to Bretons and Orcs, 150 points of shock damage to Dark Elves, High Elves and Wood Elves and 250 points of shock damage to giants. Doesn't use charges. Base damage is decreased to 23. Reduces shock resistance by 20% if wielded by a Breton or Orc and 40% if wielded by a Dark Elf, High Elf or Wood Elf.
 
 Dawnguard Rune Warhammer deals 10 points of sun damage per 10 undead killed with the warhammer (capped at 100 undead killed).
 Trollsbane does 5 points of fire damage for 5 seconds to trolls.
-Volendrung absorbs 10 points of stamina, has a chance of 10% to paralyze the target for 2 seconds and increases weapon speed by 2% if you have at least 100 base health. For every 25 additional health stamina, 10 more points of stamina are absorbed, the chance to paralyze is increased by 10% and weapon speed is increased by 2% (capped at 250 base health). Doesn't use charges. Base damage is decreased to 25 and weapon speed is decreased to match other warhammers.
+Volendrung absorbs 10 points of stamina, has a chance of 10% to paralyze the target for 2 seconds and increases weapon speed by 2% if you have at least 100 base health. For every 25 additional base health, 10 more points of stamina are absorbed, the chance to paralyze is increased by 10% and weapon speed is increased by 2% (capped at 250 base health). Doesn't use charges. Base damage is decreased to 25.
 
 Auriel's Bow does 50 points of sun damage and additional 100 points to undead. Doesn't use charges. Base damage is increased to 100.
 The duration of the special effect triggered by shooting Sunhallowed Elven Arrows at the sun is increased to 60 seconds and damage is increased to 150 and an additional 300 to undead.
@@ -153,12 +153,12 @@ Firiniel's End does 20 points of shock damage and turns targets into an ash pile
 Jon's Crossbow does 1000 damage to anything that carries fruits.
 Spectral Bow drains 100 points of stamina for 3 seconds. Doesn't use charges.
 
-Aetherium Staff summons an Enchanted Sphere for 300 seconds.
+Aetherium Staff summons an enchanted sphere for 300 seconds.
 Dragon Priest Staff is enchanted with Souldrinker.
 Forsworn Staff is enchanted with Firebolts.
 Halldir's Staff commands a weak-minded target to commit suicide by slicing their wrist and traps its soul should it die. The staff behaves as if the caster has an illusion skill of 100 but no perks.
 Hevnoraak's Staff deals 50 poison damage for 2 seconds and 2 poison damage for 300 seconds.
-Jyrik Gauldurson's Staff evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka.
+Jyrik Gauldurson's Staff evokes a bolt of lightning that deals 60 points of shock damage to health and half that to magicka.
 Rahgot's Staff is enchanted with Paralysis.
 Sanguine's Rose summons a Dremora for 60 seconds. The type of Dremora depends on your alcohol level (health buff): 0-24 -> Naked Dremora, 25-49 -> Dremora Archer, 50-99 -> Dremora Warrior, 100+ -> Dremora Mage. Doesn't use charges.
 Skull of Corruption causes creatures and people up to level 666 to flee from combat for 30 seconds. Additionally reduces armor rating by 500 points and magic resistance by 50% when powered with dreams collected from sleeping people. Doesn't use charges.
@@ -167,7 +167,7 @@ Staff of Ruunvald calms creatures and people up to level 50 for 30 seconds.
 
 Oghma Infinium only grants 7 perk points.
 
-Paralyze enchantments have a 5% chance of triggering and apply regardless of the target's magic resistance but are blocked by Stamina II enchantments.
+Paralyze enchantments have a 5% chance of triggering and apply regardless of the target's magic resistance but are blocked by stamina (Rank II) enchantments.
 
 Dragonslayer's Blessing increases damage to dragons by 10%.
 Kyne's Blessing soothes wild beasts, who lose their desire to fight or flee. Additionally:
@@ -186,6 +186,7 @@ Kyne's Retribution damages health by 5 points per second for
  - Using a Daedric artifact
  - Being a vampire or werewolf
  - Having the blessing of another Aedra
+Namira's Blessing increases health, magicka and stamina by 50 for 7200 seconds as long as you wear Namira's Ring.
 Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
 The White Phial refills every 15 minutes (real time) or when you go to sleep. It has one of the following effects:
@@ -199,4 +200,4 @@ The White Phial refills every 15 minutes (real time) or when you go to sleep. It
 Master Robes of Illusion are moved to the Pelagius Wing.
 Aetherium armor set is moved to the "hidden" room to the right of the Atherium Forge. Dwarven armor with powerful enchantments can be found in the former locations of the Aetherium armor pieces.
 Blades Boots of Fire Abatement, Blades Boots of Frost Abatement, Blades Armor of the Noble Knight, Blades Gauntlets of Extreme Wielding, Blades Helmet of Extreme Archery and Blades Shield of Magic Abatement can be found in Sky Haven Temple. Blades recruits will also wear enchanted armor.
-Harbinger armor set is in Kodlak's end table during Glory of the Dead.
+Harbinger armor set can be found in Kodlak's end table during Glory of the Dead.
