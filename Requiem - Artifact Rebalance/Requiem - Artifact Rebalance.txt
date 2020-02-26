@@ -49,7 +49,7 @@ Galmar's Boots increase stamina by 70 (Rank II).
 Guild Master's Hood increases haggling by 35%.
 Guild Master's Armor increases carrying weight by 75 points.
 Guild Master's Gloves increase lockpicking skill by 30 and lockpicking expertise by 40.
-Guild Master's Boots make pickpocketing 100% easier and reduce movement noise by 100%.
+Guild Master's Boots make pickpocketing 100% easier.
 Harbinger Helmet increases magic resistance by 6% when worn by the Harbinger of the Companions and no magic perks are taken.
 Harbinger Armor increases magic resistance by 6% when worn by the Harbinger of the Companions and no magic perks are taken.
 Harbinger Gauntlets increase magic resistance by 6% when worn by the Harbinger of the Companions and no magic perks are taken.
