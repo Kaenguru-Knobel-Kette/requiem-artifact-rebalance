@@ -197,7 +197,6 @@ The White Phial refills every 15 minutes (real time) or when you go to sleep. It
  - Increases one-handed, two-handed and marksman expertise by 50 for 300 seconds.
  - Completely restores health.
 
-Master Robes of Illusion are moved to the Pelagius Wing.
 Aetherium armor set is moved to the "hidden" room to the right of the Atherium Forge. Dwarven armor with powerful enchantments can be found in the former locations of the Aetherium armor pieces.
 Blades Boots of Fire Abatement, Blades Boots of Frost Abatement, Blades Armor of the Noble Knight, Blades Gauntlets of Extreme Wielding, Blades Helmet of Extreme Archery and Blades Shield of Magic Abatement can be found in Sky Haven Temple. Blades recruits will also wear enchanted armor.
 Harbinger armor set can be found in Kodlak's end table during Glory of the Dead.
