@@ -77,9 +77,9 @@ Dawnguard Warhammer turns undead up to level 30 for 5 seconds. Also deals 30 add
 Ancano's Robes reduce destruction spell cost by 20% and increase magicka regeneration by 300%.
 Ancano's Gloves increase magicka by 70 points (Rank II).
 Ancano's Boots increase shock resistance by 30%.
-Miraak's Robes increase poison and disease resistance by 100% and add a chance of 15% to absorb the magicka from incoming spells. Creates a tentacle explosion when hit (5 seconds cooldown).
-Mirakk's Gloves add a chance of 5% to absorb the magicka from incoming spells and increase damage of venomous spells by 50%.
-Miraak's Boots add a chance of 5% to absorb the magicka from incoming spells and increase effective mass by 2.
+Miraak's Robes add a chance of 30% to absorb the magicka from incoming spells and increase poison resistance by 100%. When hit, a tentacle explosion deals 150 points of damage to nearby enemies (3 seconds cooldown).
+Mirakk's Gloves add a chance of 10% to absorb the magicka from incoming spells and increase damage of venomous spells by 100%.
+Miraak's Boots add a chance of 10% to absorb the magicka from incoming spells and increase effective mass by 2.
 The Greybeard's Robes decrease shouting cooldown by 10%.
 The Greybeard's Hood decreases shouting cooldown by 10%.
 The Greybeard's Boots decrease shouting cooldown by 10%.
