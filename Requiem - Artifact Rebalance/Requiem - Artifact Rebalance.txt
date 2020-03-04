@@ -80,7 +80,7 @@ The Greybeard's Hood decreases shouting cooldown by 10%.
 The Greybeard's Boots decrease shouting cooldown by 10%.
 
 Arch-Mage's Robes reduce spell cost by 20%, increase magicka regeneration by 300% and increase magic resistance by 25%.
-Ebony Mail increases magic resistance by 1% and fire resistance by 3% for every three murders (capped at 60 murders). Armor rating and weight is increased to match an ebony cuirass.
+Ebony Mail increases magic resistance by 2% and fire resistance by 6% for every five murders (capped at 50 murders). Armor rating and weight is increased to match an ebony cuirass.
 Savior's Hide increases magic resistance by 10%, poison and disease resistance by 30%. Whenever a great beast (Giant Slaughterfish, Gigantic Mudcrab, Gorak the Trollslayer, Kru'ul, Ragnok, Snow, Ulik) is slain for the first time, magic resistance is increased by 3% and poison and disease resistance by 10%.
 
 Aetherium Crown restores 8 magicka per second.
