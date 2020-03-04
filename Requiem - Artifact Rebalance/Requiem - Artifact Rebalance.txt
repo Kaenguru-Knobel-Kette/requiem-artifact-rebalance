@@ -166,8 +166,8 @@ Oghma Infinium only grants 7 perk points.
 Paralyze enchantments have a 5% chance of triggering and apply regardless of the target's magic resistance but are blocked by stamina (Rank II) enchantments.
 
 Dragonslayer's Blessing increases damage to dragons by 10%.
-Kyne's Blessing soothes wild beasts, who lose their desire to fight or flee. Additionally:
- - Completing The Blessings of Nature by returning a sapling increases stamina by 50.
+Kyne's Blessing makes animals friends. Additionally:
+ - Completing The Blessings of Nature by returning a sapling increases stamina by 50 and grants immunity to most paralysis effects.
  - Completing Glory of the Dead up to stage 30 increases one-handed, two-handed and ranged damage by 30%.
  - Completing Climb the Steps reduces shout cooldown by 5%.
  - Completing A Blade in the Dark reduces shout cooldown by 15%.
