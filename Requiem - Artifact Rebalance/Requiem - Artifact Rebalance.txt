@@ -91,8 +91,8 @@ Masque of Clavicus Vile improves prices by 30% and intimidation checks in dialog
 
 Movarth's Boots grant waterwalking.
 
-Gauldur Amulet Fragments increase health/stamina/magicka by 25 points (Rank II).
-Gauldur Amulet increases health, stamina and magicka by 25 points (Rank II).
+Gauldur Amulet Fragments increase magicka by 30.
+Gauldur Amulet increases magicka by 50% of your base magicka (Rank II).
 Kyne's Token grants Kyne's Blessing or Kyne's Retribution to Nords who completed Kyne's Sacred Trials.
 Locket of Saint Jiub increases carry weight by 500 points.
 Necromancer's Amulet increases health by 50 (Rank II) if you have at least 150 base health, else decreases health regeneration by 150%. Increases magicka by 50 (Rank II) if you have at least 150 base magicka, else damages magicka regeneration by 75%. Increases stamina by 50 (Rank II) if you have at least 150 base stamina, else damages stamina regeneration by 75%. Black soul gems can be crafted at a smelter if you have the Soul Gem Mastery perk and the Necromancer's Amulet is equipped.
