@@ -95,7 +95,7 @@ Gauldur Amulet Fragments increase health/stamina/magicka by 25 points (Rank II).
 Gauldur Amulet increases health, stamina and magicka by 25 points (Rank II).
 Kyne's Token grants Kyne's Blessing or Kyne's Retribution to Nords who completed Kyne's Sacred Trials.
 Locket of Saint Jiub increases carry weight by 500 points.
-Necromancer's Amulet increases magicka by 200 (Rank II) if you have at least 220 base magicka, else it damages health by 20 points per second. Black soulgems can be crafted at a smelter if you have the Soul Gem Mastery perk and the Necromancer's Amulet is equipped.
+Necromancer's Amulet increases health by 50 (Rank II) if you have at least 150 base health, else decreases health regeneration by 150%. Increases magicka by 50 (Rank II) if you have at least 150 base magicka, else damages magicka regeneration by 75%. Increases stamina by 50 (Rank II) if you have at least 150 base stamina, else damages stamina regeneration by 75%. Black soul gems can be crafted at a smelter if you have the Soul Gem Mastery perk and the Necromancer's Amulet is equipped.
 Saarthal Amulet reduces spell cost by 12%.
 Savos Aren's Amulet increases magic resistance by 20%.
 
