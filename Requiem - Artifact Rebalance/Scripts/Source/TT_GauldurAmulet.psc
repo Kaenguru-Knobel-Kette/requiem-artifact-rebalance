@@ -5,7 +5,7 @@ Spell Property FortifyMagicka Auto
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	Float BaseMagicka = akTarget.GetBaseActorValue("Magicka")
-	FortifyMagicka.SetNthEffectMagnitude(0, BaseMagicka / 2)
+	FortifyMagicka.SetNthEffectMagnitude(0, BaseMagicka * 0.5)
 	akTarget.AddSpell(FortifyMagicka, False)
 EndEvent
 
