@@ -140,7 +140,7 @@ Wuuthrad deals 50 points of shock damage. Additionally it deals 50 points of sho
 
 Dawnguard Rune Warhammer deals 10 points of sun damage per 10 undead killed with the warhammer (capped at 100 undead killed).
 Trollsbane does 5 points of fire damage for 5 seconds to trolls.
-Volendrung absorbs 10 points of stamina, has a chance of 10% to paralyze the target for 2 seconds and increases weapon speed by 2% if you have at least 100 base health. For every 25 additional base health, 10 more points of stamina are absorbed, the chance to paralyze is increased by 10% and weapon speed is increased by 2% (capped at 250 base health). Doesn't use charges. Base damage is decreased to 25.
+Volendrung absorbs 0.25 points of stamina for every every point of base health above 100 and has a chance of 0.5% for every every point of base health above 100 to paralyze the target for 2 seconds. Attack speed is increased by 0.05% for every every point of base health above 100. Doesn't use charges. Base damage is decreased to 25.
 
 Auriel's Bow does 50 points of sun damage and additional 100 points to undead. Doesn't use charges. Base damage is increased to 100.
 The duration of the special effect triggered by shooting Sunhallowed Elven Arrows at the sun is increased to 60 seconds and damage is increased to 150 and an additional 300 to undead.
