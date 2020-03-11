@@ -1,7 +1,7 @@
 The values listed for melee weapon damage are prior to running the Reqtificator. Final damage will be 6 times higher.
 
 Dragon priest masks armor type can be changed on the workbench in Bromjunaar Sanctuary. Light armor rating is 70 and heavy armor rating is 125. Tempering requires Legendary Blacksmithing.
-Ahzidal increases enchantment power by 10%.
+Ahzidal tosses around nearby Elves. Falmer and Snow Elves are affected every 15 seconds. High Elves, Wood Elves and Dark Elves are affected every 30 seconds. Bretons and Orcs are affected every 60 seconds.
 Dukaan doubles sneak attack damage against all targets.
 Hevnoraak increases one-handed and two-handed damage by 30%.
 Konahrik increases health, stamina and magicka by 100 (Rank II). Shouts are 25% stronger, last 25% longer and shout cooldown is reduced by 20%. Restores 50 health per second. Each hit has a chance of 25% to restore 100 health for 3 seconds and cast a fire, frost and shock cloak for 10 seconds. Each hit has a chance of 5% to spawn a ghostly dragon priest.
