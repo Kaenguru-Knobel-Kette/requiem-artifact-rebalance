@@ -17,9 +17,9 @@ EndEvent
 
 Function RescaleEnchantment()
 	Int SoulsTrapped = Game.QueryStat("Souls Trapped")
-	MaceOfMolagBalEnch.SetNthEffectMagnitude(1, SoulsTrapped * 0.05)
-	MaceOfMolagBalEnch.SetNthEffectMagnitude(2, SoulsTrapped * 0.1)
-	MaceOfMolagBalEnch.SetNthEffectDuration(3, SoulsTrapped / 100)
+	MaceOfMolagBalEnch.SetNthEffectMagnitude(0, SoulsTrapped * 0.05)
+	MaceOfMolagBalEnch.SetNthEffectMagnitude(1, SoulsTrapped * 0.1)
+	MaceOfMolagBalEnch.SetNthEffectDuration(2, SoulsTrapped / 100)
 EndFunction
 
 Function ReapplyNonPersistentChanges()

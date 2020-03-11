@@ -35,7 +35,7 @@ EndFunction
 
 Function RescaleEnchantment()
 	Float EffectiveBaseHealth = GetEffectiveBaseHealth()
-	VolendrungEnch.SetNthEffectMagnitude(1, EffectiveBaseHealth * 0.25)
+	VolendrungEnch.SetNthEffectMagnitude(0, EffectiveBaseHealth * 0.25)
 EndFunction
 
 Function ReapplyNonPersistentChanges()
