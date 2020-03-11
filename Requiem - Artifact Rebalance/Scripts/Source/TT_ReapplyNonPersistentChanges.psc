@@ -1,11 +1,16 @@
 ScriptName TT_ReapplyNonPersistentChanges Extends ReferenceAlias
 
+TT_Dawnbreaker Property DawnbreakerScript Auto
 TT_MaceOfMolagBal Property MaceOfMolagBalScript Auto
 TT_Spellbreaker Property SpellbreakerScript Auto
 TT_Volendrung Property VolendrungScript Auto
 
 
 Event OnPlayerLoadGame()
+	If DawnbreakerScript != None
+		Debug.MessageBox("Reapplying Dawnbreaker")
+		DawnbreakerScript.ReapplyNonPersistentChanges()
+	EndIf
 	If MaceOfMolagBalScript != None
 		Debug.MessageBox("Reapplying Mace of Molag Bal")
 		MaceOfMolagBalScript.ReapplyNonPersistentChanges()
