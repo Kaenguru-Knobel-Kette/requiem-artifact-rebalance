@@ -156,10 +156,29 @@ Halldir's Staff commands a weak-minded target to commit suicide by slicing their
 Hevnoraak's Staff deals 50 poison damage for 2 seconds and 2 poison damage for 300 seconds.
 Jyrik Gauldurson's Staff evokes a bolt of lightning that deals 60 points of shock damage to health and half that to magicka.
 Rahgot's Staff is enchanted with Paralysis.
-Sanguine's Rose summons a Dremora for 60 seconds. The type of Dremora depends on the alcohol level (health buff): 0-24 -> Naked Dremora, 25-49 -> Dremora Archer, 50-99 -> Dremora Warrior, 100+ -> Dremora Mage. Doesn't use charges.
+Sanguine's Rose summons a dremora for 60 seconds. The type of dremora depends on the alcohol level (health buff): 0-24 -> Naked dremora, 25-49 -> dremora Archer, 50-99 -> dremora Warrior, 100+ -> dremora Mage. Doesn't use charges.
 Skull of Corruption causes creatures and people up to level 666 to flee from combat for 30 seconds. Additionally reduces armor rating by 500 points and magic resistance by 50% when powered with dreams collected from sleeping people. Doesn't use charges.
 Staff of Magnus absorbs 100 points of health and 500 points of magicka per second. When the target has less than 10 magicka, it absorbs an additional 500 points of health. Has 5000 charges and cannot be recharged.
 Staff of Ruunvald calms creatures and people up to level 50 for 30 seconds.
+Wabbajack randomly causes one of the following effects:
+ - 10% chance: Deal 60 points of fire damage.
+ - 10% chance: Deal 60 points of frost damage.
+ - 10% chance: Deal 60 points of shock damage.
+ -  5% chance: Absorb 50% of the target's health, stamina and magicka.
+ -  5% chance: Summon 3 crazy dogs.
+ -  5% chance: Summon 5 crazy goats.
+ -  5% chance: Transform the target into a chicken for 30 seconds.
+ -  5% chance: Transform the target into a dremora for 30 seconds.
+ -  5% chance: Transform the target into a mudcrab for 30 seconds.
+ -  5% chance: Transform the target into a rabbit for 30 seconds.
+ -  5% chance: The target unequips all items and flees for 30 seconds.
+ -  5% chance: The target becomes invisible for 30 seconds.
+ -  5% chance: The target heals 500 health.
+ -  5% chance: Freezes the target in solid ice for 30 seconds.
+ -  5% chance: The target explodes into 150 septims. If the target has more than 300 health, it is knocked back instead.
+ -  5% chance: The target turns into a sweet roll. If the target has more than 300 health, it is knocked back instead.
+ -  5% chance: The target is covered in cheese.
+Soul tomatoes can be crafted at a cooking pot when the Wabbajack is equipped.
 
 Oghma Infinium only grants 7 perk points.
 
