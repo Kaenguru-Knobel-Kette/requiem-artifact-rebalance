@@ -105,7 +105,7 @@ Ring of Namira allows feeding on corpses which grants Namira's Blessing.
 Blocking with the Aetherium Shield renders the carrier ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
 Auriel's Shield partially reflects blocked melee attacks back to the enemy and stores the remaining energy. Performing a power bash will release the stored energy and deal 100/200/300 damage for 1/2/3 blocked hits. Armor type is changed to light armor.
 Dawnguard Shield increases the amount of blockable damage by 30% and increases bash damage against undead by 50 points.
-Dawnguard Rune Shield increases the amount of blockable damage by 40% and increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 50 points per second. Armor type is changed to heavy armor.
+Dawnguard Rune Shield increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 100 points per second. Armor type is changed to heavy armor.
 Shield of Solitude increases magic resistance by 20% and increases the amount of blockable damage by 35%.
 Shield of Ysgramor increases magic resistance by 30%. Weight is increased to 20.
 Spellbreaker reduces maximum magicka of nearby mages by 50 points per disease contracted. Blocking creates a ward that protects against spells for up to 50 damage per disease contracted.
