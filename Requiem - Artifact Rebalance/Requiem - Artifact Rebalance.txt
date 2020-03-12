@@ -20,7 +20,7 @@ Aetherium Armor reduces spell cost by 20%. Inherits additional damage resistance
 Aetherium Gauntlets increase magicka (Rank II) by 75 points.
 Aetherium Boots increase carry weight by 50.
 Ahzidal's Helmet grants the ability to see in the dark.
-Ahzidal's Armor paralyzes enemies who strike you with a melee attack. Increases armor rating by 200 additional points when wearing all of Ahzidal's armor.
+Ahzidal's Armor paralyzes enemies who strike its wearer with a melee attack. Increases armor rating by 200 additional points when wearing all of Ahzidal's armor.
 Ahzidal's Gauntlets absorb 75% of the magicka from incoming spells that are blocked by a ward.
 Ahzidal's Boots double duration of summon spells and increase range tenfold.
 Ahzidal's Amulet increases summon limit by 1.
@@ -92,10 +92,10 @@ Masque of Clavicus Vile improves prices by 30% and intimidation checks in dialog
 Movarth's Boots grant waterwalking.
 
 Gauldur Amulet Fragments increase magicka by 30.
-Gauldur Amulet increases magicka by 50% of your base magicka (Rank II).
+Gauldur Amulet increases magicka by 50% of the wearer's base magicka (Rank II).
 Kyne's Token grants Kyne's Blessing or Kyne's Retribution to Nords who completed Kyne's Sacred Trials.
 Locket of Saint Jiub increases carry weight by 500 points.
-Necromancer's Amulet increases health by 50 (Rank II) if you have at least 150 base health, else decreases health regeneration by 150%. Increases magicka by 50 (Rank II) if you have at least 150 base magicka, else damages magicka regeneration by 75%. Increases stamina by 50 (Rank II) if you have at least 150 base stamina, else damages stamina regeneration by 75%. Black soul gems can be crafted at a smelter if you have the Soul Gem Mastery perk and the Necromancer's Amulet is equipped.
+Necromancer's Amulet increases health by 50 (Rank II) if the wearer has at least 150 base health, else damages health regeneration by 150%. Increases magicka by 50 (Rank II) if the wearer has at least 150 base magicka, else damages magicka regeneration by 75%. Increases stamina by 50 (Rank II) if the wearer has at least 150 base stamina, else damages stamina regeneration by 75%. Black soul gems can be crafted at a smelter with the Soul Gem Mastery perk if the Necromancer's Amulet is equipped.
 Saarthal Amulet reduces spell cost by 12%.
 Savos Aren's Amulet increases magic resistance by 20%.
 
@@ -156,7 +156,7 @@ Halldir's Staff commands a weak-minded target to commit suicide by slicing their
 Hevnoraak's Staff deals 50 poison damage for 2 seconds and 2 poison damage for 300 seconds.
 Jyrik Gauldurson's Staff evokes a bolt of lightning that deals 60 points of shock damage to health and half that to magicka.
 Rahgot's Staff is enchanted with Paralysis.
-Sanguine's Rose summons a Dremora for 60 seconds. The type of Dremora depends on your alcohol level (health buff): 0-24 -> Naked Dremora, 25-49 -> Dremora Archer, 50-99 -> Dremora Warrior, 100+ -> Dremora Mage. Doesn't use charges.
+Sanguine's Rose summons a Dremora for 60 seconds. The type of Dremora depends on the alcohol level (health buff): 0-24 -> Naked Dremora, 25-49 -> Dremora Archer, 50-99 -> Dremora Warrior, 100+ -> Dremora Mage. Doesn't use charges.
 Skull of Corruption causes creatures and people up to level 666 to flee from combat for 30 seconds. Additionally reduces armor rating by 500 points and magic resistance by 50% when powered with dreams collected from sleeping people. Doesn't use charges.
 Staff of Magnus absorbs 100 points of health and 500 points of magicka per second. When the target has less than 10 magicka, it absorbs an additional 500 points of health. Has 5000 charges and cannot be recharged.
 Staff of Ruunvald calms creatures and people up to level 50 for 30 seconds.
@@ -182,10 +182,10 @@ Kyne's Retribution damages health by 5 points per second for
  - Using a Daedric artifact
  - Being a vampire or werewolf
  - Having the blessing of another Aedra
-Namira's Blessing increases health, magicka and stamina by 50 for 7200 seconds as long as you wear Namira's Ring.
+Namira's Blessing increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
 Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
-The White Phial refills every 15 minutes (real time) or when you go to sleep. It has one of the following effects:
+The White Phial refills every 15 minutes (real time) or when going to sleep. It has one of the following effects:
  - Increases magic resistance by 25% for 300 seconds.
  - Increases armor rating by 100 for 300 seconds.
  - Improves sneaking by 25% for 300 seconds.
