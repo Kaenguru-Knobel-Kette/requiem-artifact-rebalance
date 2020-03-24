@@ -102,7 +102,7 @@ Gauldur Amulet Fragments increase magicka by 30.
 Gauldur Amulet increases magicka by 50% of the wearer's base magicka (Rank II).
 Kyne's Token grants Kyne's Blessing to Nords who completed Kyne's Sacred Trials. They must not kill Paarthurnax, equip a dragon priest mask or Daedric artifact, have the blessing of one of the Nine Divines, join the Dark Brotherhood or Thieves Guild and be a vampire or werewolf.
 Locket of Saint Jiub increases carry weight by 500 points.
-Necromancer's Amulet increases health by 50 (Rank II) if the wearer has at least 150 base health, else damages health regeneration by 150%. Increases magicka by 50 (Rank II) if the wearer has at least 150 base magicka, else damages magicka regeneration by 75%. Increases stamina by 50 (Rank II) if the wearer has at least 150 base stamina, else damages stamina regeneration by 75%. Black soul gems can be crafted at a smelter with the Soul Gem Mastery perk if the Necromancer's Amulet is equipped.
+Necromancer's Amulet reduces conjuration spell cost by 25%. Increases health by 50 (Rank II) if the wearer has at least 150 base health, else damages health regeneration by 75%. Increases magicka by 50 (Rank II) if the wearer has at least 150 base magicka, else damages magicka regeneration by 75%. Increases stamina by 50 (Rank II) if the wearer has at least 150 base stamina, else damages stamina regeneration by 75%. Black soul gems can be crafted at a smelter with the Soul Gem Mastery perk if the Necromancer's Amulet is equipped.
 Saarthal Amulet reduces spell cost by 12%.
 Savos Aren's Amulet increases magic resistance by 20%.
 
