@@ -26,7 +26,7 @@ Ahzidal's Boots double duration of summon spells and increase range tenfold.
 Ahzidal's Amulet increases summon limit by 1.
 Ahzidal's Ring causes summoned skeletons to explode for 200 points of damage when they attack in melee or are hit.
 Ancient Shrouded Cowl increases ranged damage by 30%.
-Ancient Shrouded Armor increases poison resistance by 100% and magic resistance by 20%.
+Ancient Shrouded Armor increases poison resistance by 100%. Increases magic resistance by 20% when wearing the full set of ancient shrouded armor.
 Ancient Shrouded Gloves increase one-handed damage by 30%.
 Ancient Shrouded Boots increase stamina (Rank II) by 70.
 Cicero's Hat improves sneaking by 40%.
