@@ -33,6 +33,10 @@ Cicero's Hat improves sneaking by 40%.
 Cicero's Clothes reduce illusion spell cost by 20% and increase magicka regeneration by 250%.
 Cicero's Gloves increase one-handed and marksman expertise by 40.
 Cicero's Boots reduce movement noise by 100%.
+Deathbrand Helmet grants waterbreathing and increases carry weight by 100. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
+Deathbrand Armor increases magic resistance by 20% and increases health by 75 (Rank II). Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
+Deathbrand Gauntlets increase one-handed damage by 30% and increase armor rating 100. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
+Deathbrand Boots increase stamina by 75 (Rank II) and stamina regeneration by 100%. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Dwarven Helmet of Arkngthamz increases lockpicking skill by 18 and lockpicking expertise by 20 points.
 Dwarven Armor of Mzulft increases magic resistance by 20%.
 Dwarven Gauntlets of Raldbthar increase one-handed or two-handed damage by 30%.
@@ -72,16 +76,16 @@ Dawnguard Warhammer turns undead up to level 30 for 5 seconds. Also deals 30 add
 Ancano's Robes reduce destruction spell cost by 20% and increase magicka regeneration by 300%.
 Ancano's Gloves increase magicka by 70 points (Rank II).
 Ancano's Boots increase shock resistance by 30%.
+Arch-Mage's Hood reduces spell cost by 20%.
+Arch-Mage's Robes reduce spell cost by 20%, increase magicka regeneration by 300% and increase magic resistance by 25%.
+Arch-Mage's Gloves increase magicka by 150 (Rank II).
+Arch-Mage's Boots increase fire, frost and shock resistance by 30%.
 Miraak's Robes add a chance of 30% to absorb the magicka from incoming spells and increase poison resistance by 100%. When hit, a tentacle explosion deals 150 points of damage to nearby enemies (3 seconds cooldown).
 Mirakk's Gloves add a chance of 10% to absorb the magicka from incoming spells and increase damage of venomous spells by 100%.
 Miraak's Boots add a chance of 10% to absorb the magicka from incoming spells and increase effective mass by 2.
 The Greybeard's Robes decrease shouting cooldown by 10%.
 The Greybeard's Hood decreases shouting cooldown by 10%.
 The Greybeard's Boots decrease shouting cooldown by 10%.
-Arch-Mage's Hood reduces spell cost by 20%.
-Arch-Mage's Robes reduce spell cost by 20%, increase magicka regeneration by 300% and increase magic resistance by 25%.
-Arch-Mage's Gloves increase magicka by 150 (Rank II).
-Arch-Mage's Boots increase fire, frost and shock resistance by 30%.
 
 Ebony Mail increases magic resistance by 0.5% and fire resistance by 1.5% for every murder. Armor rating and weight is increased to match an ebony cuirass.
 Savior's Hide increases magic resistance by 10%, poison and disease resistance by 30%. Whenever a great beast (Giant Slaughterfish, Gigantic Mudcrab, Gorak the Trollslayer, Kru'ul, Ragnok, Snow, Ulik) is slain for the first time, magic resistance is increased by 3% and poison and disease resistance by 10%.
@@ -118,6 +122,7 @@ Mehrunes' Razor deals 10 points of irresistible damage for killing at least 100 
 Nettlebane does 10 points of fire damage for 5 seconds to spriggans and staggers them. Doesn't use charges.
 Valdr's Lucky Dagger is enchanted with paralysis. Base damage is increased to 8.
 
+Bloodscythe absorbs 25 points of health. When attacking with two weapons, damage taken is halved. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Bolar's Oathblade deals 30 irresistible damage to Thalmor and makes them flee combat for 30 seconds. Doesn't use charges.
 Chillrend does 30 points of frost damage and has a chance to paralyze for 2 seconds.
 Dawnbreaker deals 0.1 points of sun damage to undead for every undead killed and turns undead up to level [undead killed / 10]. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 points of sun damage. Doesn't use charges. Base damage is decreased to 9. Vampires can touch Dawnbreaker and Meridia's Beacon without punishment.
@@ -126,6 +131,7 @@ Ghostblade completely ignores armor rating. This doesn't include inherent damage
 Harkon's Sword absorbs 50 points of health, stamina and magicka, soultraps for 5 seconds and has a chance to paralyze for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
 Miraak's Sword absorbs 50 points of health, magicka and stamina. The sword has increased range to match its animation. Doesn't use charges.
 Red Eagle's Bane does 10 points of fire damage and absorbs 10 points of health and stamina.
+Soulrender makes the target vulnerable to soul gems for 1 seconds. When attacking with two weapons, damage taken is halved. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Spectral Sword drains 100 points of magicka for 3 seconds. Doesn't use charges.
 
 Dawnguard Rune War Axe deals 10 points of sun damage per 10 undead killed with the war axe (capped at 100 undead killed). Doesn't use charges.
