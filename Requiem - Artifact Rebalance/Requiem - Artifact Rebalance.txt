@@ -138,10 +138,10 @@ Dawnguard Rune War Axe deals 10 points of sun damage per 10 undead killed with t
 Kyne's War Axe deals 10 points of shock damage when Kyne's Blessing is active. Deals another 15 points of shock damage for each of Kyne's greater blessings. Doesn't use charges.
 Poacher's Axe deals 10 points of extra damage to animals.
 
-Mace of Molag Bal absorbs 0.05 points of stamina and 0.1 points of magicka for every soul trapped and makes the target vulnerable to soul gems for 1 second for every 100 souls trapped (capped at 600 souls traped). Doesn't use charges. Base damage is decreased to 15.
+Mace of Molag Bal absorbs 0.05 points of stamina and 0.1 points of magicka for every soul trapped and makes the target vulnerable to soul gems for 1 second for every 100 souls trapped. Doesn't use charges. Base damage is decreased to 15.
 
 Bloodskal Blade releases an energy blast with power attacks that deals 30 points of magic damage. Doesn't use charges. Base damage is decreased to 17 and weight to 12.
-Ebony Blade absorbs 5 points of health for every two friends killed by the blade (capped at 20 kills). Doesn't use charges. Victims do not become hostile.
+Ebony Blade absorbs 1 point of health for every friend killed by the blade (capped at 50 kills). Doesn't use charges. Victims do not become hostile.
 
 Rueful Axe increases two-handed expertise by 80. Base damage is decreased to 22.
 Spectral Battleaxe drains 100 points of health for 3 seconds. Doesn't use charges.
