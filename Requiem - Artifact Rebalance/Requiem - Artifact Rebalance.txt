@@ -100,14 +100,14 @@ Movarth's Boots grant waterwalking.
 
 Gauldur Amulet Fragments increase magicka by 30.
 Gauldur Amulet increases magicka by 50% of the wearer's base magicka (Rank II).
-Kyne's Token grants Kyne's Blessing to Nords who completed Kyne's Sacred Trials. They must not kill Paarthurnax, equip a dragon priest mask or Daedric artifact, have the blessing of one of the Nine Divines, join the Dark Brotherhood or Thieves Guild and be a vampire or werewolf.
+Kyne's Token grants the blessing of Kyne to Nords who completed Kyne's Sacred Trials. They must not kill Paarthurnax, equip a dragon priest mask or Daedric artifact, have the blessing of one of the Nine Divines, join the Dark Brotherhood or Thieves Guild and be a vampire or werewolf.
 Locket of Saint Jiub increases carry weight by 500 points.
 Necromancer's Amulet reduces conjuration spell cost by 25%. Increases health by 50 (Rank II) if the wearer has at least 150 base health, else damages health regeneration by 75%. Increases magicka by 50 (Rank II) if the wearer has at least 150 base magicka, else damages magicka regeneration by 75%. Increases stamina by 50 (Rank II) if the wearer has at least 150 base stamina, else damages stamina regeneration by 75%. Black soul gems can be crafted at a smelter with the Soul Gem Mastery perk if the Necromancer's Amulet is equipped.
 Saarthal Amulet reduces spell cost by 12%.
 Savos Aren's Amulet increases magic resistance by 20%.
 
 Ring of Hircine increases health by 75 points (Rank II) and grants unlimited transformations to Werewolves.
-Ring of Namira allows feeding on corpses which grants Namira's Blessing.
+Ring of Namira allows feeding on corpses which grants the blessing of Namira.
 
 Blocking with the Aetherium Shield renders the carrier ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
 Auriel's Shield partially reflects blocked melee attacks back to the enemy and stores the remaining energy. Performing a power bash will release the stored energy and deal 100/200/300 damage for 1/2/3 blocked hits. Armor type is changed to light armor.
@@ -135,7 +135,7 @@ Soulrender makes the target vulnerable to soul gems for 1 seconds. When attackin
 Spectral Sword drains 100 points of magicka for 3 seconds. Doesn't use charges.
 
 Dawnguard Rune War Axe deals 1 point of sun damage per undead killed with the war axe (capped at 100 undead killed). Doesn't use charges.
-Kyne's War Axe deals 10 points of shock damage when Kyne's Blessing is active. Deals another 15 points of shock damage for each of Kyne's greater blessings. Doesn't use charges.
+Kyne's War Axe deals 10 points of shock damage when the blessing of Kyne is active. Deals another 15 points of shock damage for each of Kyne's greater blessings. Doesn't use charges.
 Poacher's Axe deals 10 points of extra damage to animals.
 
 Mace of Molag Bal absorbs 0.05 points of stamina and 0.1 points of magicka for every soul trapped and makes the target vulnerable to soul gems for 1 second for every 100 souls trapped. Doesn't use charges. Base damage is decreased to 15.
@@ -193,15 +193,15 @@ Oghma Infinium only grants 7 perk points.
 
 Paralyze enchantments have a 5% chance of triggering and apply regardless of the target's magic resistance but are blocked by stamina (Rank II) enchantments.
 
-Dragonslayer's Blessing increases damage to dragons by 10%.
-Kyne's Blessing makes animals friends. Additionally:
+Blessing of the Blades (fka Dragonslayer's Blessing) increases physical damage dealt to dragons by 10%.
+Blessing of Kyne makes animals friends. Additionally:
  - Completing Climb the Steps increases stamina by 50 (Rank II).
  - Completing The Blessings of Nature by returning a sapling increases health by 50 (Rank II).
  - Completing Glory of the Dead up to stage 30 increases one-handed, two-handed and ranged damage by 30%.
  - Completing A Blade in the Dark reduces shout cooldown by 15%.
  - Completing Alduin's Bane reduces shout cooldown by 15%.
  - Completing Dragonslayer reduces shout cooldown by 15%.
-Namira's Blessing increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
+Blessing of Namira increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
 Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
 The White Phial refills every 15 minutes (real time) or when going to sleep. It has one of the following effects:
