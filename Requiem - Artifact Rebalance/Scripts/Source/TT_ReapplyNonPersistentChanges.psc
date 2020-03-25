@@ -1,6 +1,8 @@
 ScriptName TT_ReapplyNonPersistentChanges Extends ReferenceAlias
 
 TT_Dawnbreaker Property DawnbreakerScript Auto
+TT_DawnguardRuneWarAxe Property DawnguardRuneWarAxeScript Auto
+TT_DawnguardRuneWarhammer Property DawnguardRuneWarhammerScript Auto
 TT_EbonyBlade Property EbonyBladeScript Auto
 TT_MaceOfMolagBal Property MaceOfMolagBalScript Auto
 TT_Spellbreaker Property SpellbreakerScript Auto
@@ -11,6 +13,14 @@ Event OnPlayerLoadGame()
 	If DawnbreakerScript != None
 		Debug.MessageBox("Reapplying Dawnbreaker")
 		DawnbreakerScript.ReapplyNonPersistentChanges()
+	EndIf
+	If DawnguardRuneWarAxeScript != None
+		Debug.MessageBox("Reapplying Dawnguard Rune War Axe")
+		DawnguardRuneWarAxeScript.ReapplyNonPersistentChanges()
+	EndIf
+	If DawnguardRuneWarhammerScript != None
+		Debug.MessageBox("Reapplying Dawnguard Rune Warhammer")
+		DawnguardRuneWarhammerScript.ReapplyNonPersistentChanges()
 	EndIf
 	If EbonyBladeScript != None
 		Debug.MessageBox("Reapplying Ebony Blade")
