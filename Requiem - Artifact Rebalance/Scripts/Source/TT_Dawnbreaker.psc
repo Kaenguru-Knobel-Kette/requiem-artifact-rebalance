@@ -15,8 +15,8 @@ Event OnEffectStart(Actor akTarget, Actor akCaster)
 EndEvent
 
 Event OnEffectFinish(Actor akTarget, Actor akCaster)
-	ReapplyNonPersistentChanges.DawnbreakerScript = None
 	akTarget.RemoveSpell(Description)
+	ReapplyNonPersistentChanges.DawnbreakerScript = None
 EndEvent
 
 
