@@ -128,7 +128,7 @@ Chillrend does 30 points of frost damage and has a chance to paralyze for 2 seco
 Dawnbreaker deals 0.1 points of sun damage to undead for every undead killed and turns undead up to level [undead killed / 10]. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 points of sun damage. Doesn't use charges. Base damage is decreased to 9. Vampires can touch Dawnbreaker and Meridia's Beacon without punishment.
 Dragonbane does 150 irresistible damage to dragons. Base damage is decreased to 12.
 Ghostblade completely ignores armor rating. This doesn't include inherent damage reductions against slashing damage.
-Harkon's Sword absorbs 50 points of health, stamina and magicka, soultraps for 5 seconds and has a chance to paralyze for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
+Harkon's Sword absorbs 50 points of health, stamina and magicka, makes the target vulnerable to soul gems for 5 seconds and has a small chance to paralyze the target for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
 Miraak's Sword absorbs 50 points of health, magicka and stamina. The sword has increased range to match its animation. Doesn't use charges.
 Red Eagle's Bane does 10 points of fire damage and absorbs 10 points of health and stamina.
 Soulrender makes the target vulnerable to soul gems for 1 seconds. When attacking with two weapons, damage taken is halved. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
@@ -145,7 +145,7 @@ Ebony Blade absorbs 1 point of health for every friend killed by the blade (capp
 
 Rueful Axe increases two-handed expertise by 80. Base damage is decreased to 22.
 Spectral Battleaxe drains 100 points of health for 3 seconds. Doesn't use charges.
-Wuuthrad deals 50 points of shock damage. Additionally it deals 50 points of shock damage to Bretons and Orcs, 150 points of shock damage to Dark Elves, High Elves and Wood Elves and 250 points of shock damage to giants. Doesn't use charges. Base damage is decreased to 23. Reduces shock resistance by 20% if wielded by a Breton or Orc and 40% if wielded by a Dark Elf, High Elf or Wood Elf.
+Wuuthrad deals 50 points of shock damage. Additionally it deals 50 points of shock damage to Bretons and Orcs, 150 points of shock damage to Dark Elves, High Elves, Wood Elves and Falmer and 250 points of shock damage to giants. Doesn't use charges. Base damage is decreased to 23. Reduces shock resistance by 20% if wielded by a Breton or Orc and 40% if wielded by a Dark Elf, High Elf or Wood Elf.
 
 Dawnguard Rune Warhammer deals 1 point of sun damage per undead killed with the warhammer (capped at 100 undead killed). Doesn't use charges.
 Trollsbane does 5 points of fire damage for 5 seconds to trolls.
@@ -165,9 +165,9 @@ Halldir's Staff commands a weak-minded target to commit suicide by slicing their
 Hevnoraak's Staff deals 50 poison damage for 2 seconds and 2 poison damage for 300 seconds.
 Jyrik Gauldurson's Staff evokes a bolt of lightning that deals 60 points of shock damage to health and half that to magicka.
 Rahgot's Staff is enchanted with Paralysis.
-Sanguine's Rose summons a dremora for 60 seconds. The type of dremora depends on the alcohol level (health buff): 0-24 -> Naked dremora, 25-49 -> dremora Archer, 50-99 -> dremora Warrior, 100+ -> dremora Mage. Doesn't use charges.
+Sanguine's Rose summons a dremora for 60 seconds. The type of dremora depends on the alcohol level (health buff): 0-24 -> Naked Dremora, 25-49 -> Dremora Archer, 50-99 -> Dremora Warrior, 100+ -> Dremora Mage. Doesn't use charges.
 Skull of Corruption causes creatures and people up to level 666 to flee from combat for 30 seconds. Additionally reduces armor rating by 500 points and magic resistance by 50% when powered with dreams collected from sleeping people. Doesn't use charges.
-Staff of Magnus absorbs 100 points of health and 500 points of magicka per second. When the target has less than 10 magicka, it absorbs an additional 500 points of health. Has 5000 charges and cannot be recharged.
+Staff of Magnus absorbs 100 points of health and 500 points of magicka per second. When the target has less than 10 magicka, it absorbs an additional 500 points of health.
 Staff of Ruunvald calms creatures and people up to level 50 for 30 seconds.
 Wabbajack randomly causes one of the following effects:
  - 10% chance: Deal 60 points of fire damage.
@@ -191,7 +191,7 @@ Soul tomatoes can be crafted at a cooking pot when the Wabbajack is equipped.
 
 Oghma Infinium only grants 7 perk points.
 
-Paralyze enchantments have a 5% chance of triggering and apply regardless of the target's magic resistance but are blocked by stamina (Rank II) enchantments.
+Paralyze enchantments have a 10% chance of triggering and apply regardless of the target's magic resistance but are blocked by stamina (Rank II) enchantments.
 
 Blessing of the Blades (fka Dragonslayer's Blessing) increases physical damage dealt to dragons by 10%.
 Blessing of Kyne makes animals friends. Additionally:
