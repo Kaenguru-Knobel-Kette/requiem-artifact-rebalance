@@ -2,18 +2,27 @@ ScriptName TT_Dawnbreaker Extends ActiveMagicEffect
 
 Enchantment Property DawnbreakerEnch Auto
 
+Spell Property Description Auto
+
 TT_ReapplyNonPersistentChanges Property ReapplyNonPersistentChanges Auto
 
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	RescaleEnchantment()
+	UpdateDescription()
+	akTarget.AddSpell(Description, False)
 	ReapplyNonPersistentChanges.DawnbreakerScript = Self
 EndEvent
 
 Event OnEffectFinish(Actor akTarget, Actor akCaster)
 	ReapplyNonPersistentChanges.DawnbreakerScript = None
+	akTarget.RemoveSpell(Description)
 EndEvent
 
+
+Function ReapplyNonPersistentChanges()
+	RescaleEnchantment()
+EndFunction
 
 Function RescaleEnchantment()
 	Int UndeadKilled = Game.QueryStat("Undead Killed")
@@ -21,6 +30,7 @@ Function RescaleEnchantment()
 	DawnbreakerEnch.SetNthEffectMagnitude(2, UndeadKilled / 10)
 EndFunction
 
-Function ReapplyNonPersistentChanges()
-	RescaleEnchantment()
+Function UpdateDescription()
+	Int UndeadKilled = Game.QueryStat("Undead Killed")
+	Description.SetNthEffectMagnitude(0, UndeadKilled * 0.2)
 EndFunction

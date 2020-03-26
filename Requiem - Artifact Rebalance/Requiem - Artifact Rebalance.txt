@@ -125,7 +125,7 @@ Valdr's Lucky Dagger is enchanted with paralysis. Base damage is increased to 8.
 Bloodscythe absorbs 25 points of health. When attacking with two weapons, damage taken is halved. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Bolar's Oathblade deals 30 irresistible damage to Thalmor and makes them flee combat for 30 seconds. Doesn't use charges.
 Chillrend does 30 points of frost damage and has a chance to paralyze for 2 seconds.
-Dawnbreaker deals 0.1 points of sun damage to undead for every undead killed and turns undead up to level [undead killed / 10]. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 points of sun damage. Doesn't use charges. Base damage is decreased to 9. Vampires can touch Dawnbreaker and Meridia's Beacon without punishment.
+Dawnbreaker deals 0.2 points of sun damage to undead for every undead killed and turns undead up to level [undead killed / 10]. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 points of sun damage. Doesn't use charges. Base damage is decreased to 9. Vampires can touch Dawnbreaker and Meridia's Beacon without punishment.
 Dragonbane does 150 irresistible damage to dragons. Base damage is decreased to 12.
 Ghostblade completely ignores armor rating. This doesn't include inherent damage reductions against slashing damage.
 Harkon's Sword absorbs 50 points of health, stamina and magicka, makes the target vulnerable to soul gems for 5 seconds and has a small chance to paralyze the target for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
