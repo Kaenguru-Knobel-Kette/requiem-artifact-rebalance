@@ -21,7 +21,11 @@ EndEvent
 
 
 Function ReapplyNonPersistentChanges()
+	Actor Target = GetTargetActor()
+	Target.RemoveSpell(Description)
 	RescaleEnchantment()
+	UpdateDescription()
+	Target.AddSpell(Description, False)
 EndFunction
 
 Function RescaleEnchantment()

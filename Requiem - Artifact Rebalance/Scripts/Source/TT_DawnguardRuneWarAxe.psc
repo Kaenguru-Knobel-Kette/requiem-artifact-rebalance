@@ -17,14 +17,14 @@ Event OnEffectFinish(Actor akTarget, Actor akCaster)
 EndEvent
 
 
+Function ReapplyNonPersistentChanges()
+	RescaleEnchantment()
+EndFunction
+
 Function RescaleEnchantment()
 	Float Magnitude = UndeadKilledByWeapon.GetValue()
 	If Magnitude > 100
 		Magnitude = 100
 	EndIf
 	DawnguardRuneWarAxeEnch.SetNthEffectMagnitude(1, Magnitude)
-EndFunction
-
-Function ReapplyNonPersistentChanges()
-	RescaleEnchantment()
 EndFunction

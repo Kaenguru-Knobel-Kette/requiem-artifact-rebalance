@@ -33,7 +33,14 @@ Float Function GetEffectiveBaseHealth()
 EndFunction
 
 Function ReapplyNonPersistentChanges()
+	Actor Target = GetTargetActor()
+	Target.RemoveSpell(AttackSpeed)
+	Target.RemoveSpell(Description)
 	RescaleEnchantment()
+	RescaleAttackSpeed()
+	UpdateDescription()
+	Target.AddSpell(AttackSpeed, False)
+	Target.AddSpell(Description, False)
 EndFunction
 
 Function RescaleAttackSpeed()

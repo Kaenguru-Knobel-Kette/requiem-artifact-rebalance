@@ -11,31 +11,24 @@ TT_Volendrung Property VolendrungScript Auto
 
 Event OnPlayerLoadGame()
 	If DawnbreakerScript != None
-		Debug.MessageBox("Reapplying Dawnbreaker")
 		DawnbreakerScript.ReapplyNonPersistentChanges()
 	EndIf
 	If DawnguardRuneWarAxeScript != None
-		Debug.MessageBox("Reapplying Dawnguard Rune War Axe")
 		DawnguardRuneWarAxeScript.ReapplyNonPersistentChanges()
 	EndIf
 	If DawnguardRuneWarhammerScript != None
-		Debug.MessageBox("Reapplying Dawnguard Rune Warhammer")
 		DawnguardRuneWarhammerScript.ReapplyNonPersistentChanges()
 	EndIf
 	If EbonyBladeScript != None
-		Debug.MessageBox("Reapplying Ebony Blade")
 		EbonyBladeScript.ReapplyNonPersistentChanges()
 	EndIf
 	If MaceOfMolagBalScript != None
-		Debug.MessageBox("Reapplying Mace of Molag Bal")
 		MaceOfMolagBalScript.ReapplyNonPersistentChanges()
 	EndIf
 	If SpellbreakerScript != None
-		Debug.MessageBox("Reapplying Spellbreaker")
 		SpellbreakerScript.ReapplyNonPersistentChanges()
 	EndIf
 	If VolendrungScript != None
-		Debug.MessageBox("Reapplying Volendrung")
 		VolendrungScript.ReapplyNonPersistentChanges()
 	EndIf
 EndEvent
