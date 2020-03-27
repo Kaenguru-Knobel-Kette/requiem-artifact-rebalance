@@ -149,7 +149,7 @@ Wuuthrad deals 50 points of shock damage. Additionally it deals 50 points of sho
 
 Dawnguard Rune Warhammer deals 1 point of sun damage per undead killed with the warhammer (capped at 100 undead killed). Doesn't use charges.
 Trollsbane does 5 points of fire damage for 5 seconds to trolls.
-Volendrung absorbs 0.25 points of stamina for every every point of base health above 100 and has a chance of 0.5% for every every point of base health above 100 to paralyze the target for 2 seconds. Attack speed is increased by 0.05% for every every point of base health above 100. Doesn't use charges. Base damage is decreased to 25.
+Volendrung absorbs 0.25 points of stamina for every every point of base health above 100 and reduces the target's damage and the amount of blockable damage for 10 seconds by 0.25% for every point of base health above 100. Attack speed is increased by 0.05% for every every point of base health above 100. Doesn't use charges. Base damage is decreased to 25.
 
 Auriel's Bow does 50 points of sun damage and additional 100 points to undead. Doesn't use charges. Base damage is increased to 100.
 The duration of the special effect triggered by shooting Sunhallowed Elven Arrows at the sun is increased to 60 seconds and damage is increased to 150 and an additional 300 to undead.
@@ -190,8 +190,6 @@ Wabbajack randomly causes one of the following effects:
 Soul tomatoes can be crafted at a cooking pot when the Wabbajack is equipped.
 
 Oghma Infinium only grants 7 perk points.
-
-Paralyze enchantments have a 10% chance of triggering and apply regardless of the target's magic resistance but are blocked by stamina (Rank II) enchantments.
 
 Blessing of the Blades (fka Dragonslayer's Blessing) increases physical damage dealt to dragons by 10%.
 Blessing of Kyne makes animals friends. Additionally:

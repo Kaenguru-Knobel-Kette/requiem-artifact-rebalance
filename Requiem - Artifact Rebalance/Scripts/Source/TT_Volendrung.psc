@@ -2,30 +2,29 @@ ScriptName TT_Volendrung Extends ActiveMagicEffect
 
 Enchantment Property VolendrungEnch Auto
 
-GlobalVariable Property ParalysisChance Auto
-
-Spell Property Flurry Auto
+Spell Property AttackSpeed Auto
+Spell Property Description Auto
 
 TT_ReapplyNonPersistentChanges Property ReapplyNonPersistentChanges Auto
 
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
-	Float EffectiveBaseHealth = GetEffectiveBaseHealth()
-	Flurry.SetNthEffectMagnitude(0, EffectiveBaseHealth * 0.05)
-	Flurry.SetNthEffectMagnitude(1, EffectiveBaseHealth * 0.0005)
-	akTarget.AddSpell(Flurry, False)
-	ParalysisChance.SetValue(EffectiveBaseHealth * 0.5)
 	RescaleEnchantment()
+	RescaleAttackSpeed()
+	UpdateDescription()
+	akTarget.AddSpell(AttackSpeed, False)
+	akTarget.AddSpell(Description, False)
 	ReapplyNonPersistentChanges.VolendrungScript = Self
 EndEvent
 
 Event OnEffectFinish(Actor akTarget, Actor akCaster)
-	akTarget.RemoveSpell(Flurry)
+	akTarget.RemoveSpell(AttackSpeed)
+	akTarget.RemoveSpell(Description)
 	ReapplyNonPersistentChanges.VolendrungScript = None
 EndEvent
 
 
-FLoat Function GetEffectiveBaseHealth()
+Float Function GetEffectiveBaseHealth()
 	Float EffectiveBaseHealth = Game.GetPlayer().GetBaseActorValue("Health") - 100
 	If EffectiveBaseHealth < 0
 		EffectiveBaseHealth = 0
@@ -33,11 +32,23 @@ FLoat Function GetEffectiveBaseHealth()
 	Return EffectiveBaseHealth
 EndFunction
 
+Function ReapplyNonPersistentChanges()
+	RescaleEnchantment()
+EndFunction
+
+Function RescaleAttackSpeed()
+	Float EffectiveBaseHealth = GetEffectiveBaseHealth()
+	AttackSpeed.SetNthEffectMagnitude(0, EffectiveBaseHealth * 0.05)
+	AttackSpeed.SetNthEffectMagnitude(1, EffectiveBaseHealth * 0.0005)
+EndFunction
+
 Function RescaleEnchantment()
 	Float EffectiveBaseHealth = GetEffectiveBaseHealth()
 	VolendrungEnch.SetNthEffectMagnitude(0, EffectiveBaseHealth * 0.25)
+	VolendrungEnch.SetNthEffectMagnitude(1, EffectiveBaseHealth * 0.25)
 EndFunction
 
-Function ReapplyNonPersistentChanges()
-	RescaleEnchantment()
+Function UpdateDescription()
+	Float EffectiveBaseHealth = GetEffectiveBaseHealth()
+	Description.SetNthEffectMagnitude(0, EffectiveBaseHealth * 0.25)
 EndFunction
