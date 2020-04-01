@@ -117,7 +117,7 @@ Shield of Solitude increases magic resistance by 20% and increases the amount of
 Shield of Ysgramor increases magic resistance by 30%. Weight is increased to 20.
 Spellbreaker reduces maximum magicka of nearby mages by 50 points per disease contracted. Blocking creates a ward that protects against spells for up to 50 damage per disease contracted.
 
-Keening summons the shade of Arniel Gane when drawn. Doesn't count towards the summon limit. Base damage is decreased to 13.
+Keening doesn't use charges. Base damage is decreased to 13.
 Mehrunes' Razor deals 10 points of irresistible damage for killing at least 100 people, animals, creatures, undead, daedra and dwarven constructs (each enemy type counts separately). Doesn't use charges. Base damage is decreased to 10.
 Nettlebane does 10 points of fire damage for 5 seconds to spriggans and staggers them. Doesn't use charges.
 Valdr's Lucky Dagger is enchanted with paralysis. Base damage is increased to 8.
