@@ -117,7 +117,7 @@ Shield of Solitude increases magic resistance by 20% and increases the amount of
 Shield of Ysgramor increases magic resistance by 30%. Weight is increased to 20.
 Spellbreaker reduces maximum magicka of nearby mages by 50 points per disease contracted. Blocking creates a ward that protects against spells for up to 50 damage per disease contracted.
 
-Keening doesn't use charges. Base damage is decreased to 13.
+Keening has no enchantment. Base damage is decreased to 13.
 Mehrunes' Razor deals 10 points of irresistible damage for killing at least 100 people, animals, creatures, undead, daedra and dwarven constructs (each enemy type counts separately). Doesn't use charges. Base damage is decreased to 10.
 Nettlebane does 10 points of fire damage for 5 seconds to spriggans and staggers them. Doesn't use charges.
 Valdr's Lucky Dagger is enchanted with paralysis. Base damage is increased to 8.
@@ -200,6 +200,7 @@ Blessing of Kyne makes animals friends. Additionally:
  - Completing Alduin's Bane reduces shout cooldown by 15%.
  - Completing Dragonslayer reduces shout cooldown by 15%.
 Blessing of Namira increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
+Summon Shade of Arniel Gane can only be used if Keening is equipped. The shade is immune to all attacks.
 Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
 The White Phial refills every 15 minutes (real time) or when going to sleep. It has one of the following effects:
