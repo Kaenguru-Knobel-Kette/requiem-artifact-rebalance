@@ -88,6 +88,7 @@ The Greybeard's Hood decreases shouting cooldown by 10%.
 The Greybeard's Boots decrease shouting cooldown by 10%.
 
 Ebony Mail increases magic resistance by 0.5% and fire resistance by 1.5% for every murder. Armor rating and weight is increased to match an ebony cuirass.
+Harkon's and Valerica's armor reduces spell cost by 20% and increases magicka regeneration by 300%.
 Savior's Hide increases magic resistance by 10%, poison and disease resistance by 30%. Whenever a great beast (Giant Slaughterfish, Gigantic Mudcrab, Gorak the Trollslayer, Kru'ul, Ragnok, Snow, Ulik) is slain for the first time, magic resistance is increased by 3% and poison and disease resistance by 10%.
 
 Aetherium Crown restores 8 magicka per second.
@@ -216,3 +217,4 @@ Blades Boots of Fire Abatement, Blades Boots of Frost Abatement, Blades Armor of
 Gunmar sells Dawnguard Armor of Extreme Health, Dawnguard Boots of Frost Abatement, Dawnguard Gauntlets of Extreme Archery, Dawnguard Gauntlets of Extreme Wielding, Dawnguard Gauntlets of Extreme Sure Grip and Dawnguard Helmet of Extreme Restoration. Important Dawnguard members will also wear enchanted armor.
 Harbinger armor set can be found in Kodlak's end table during Glory of the Dead.
 Ulfric Stormcloak wears a Ring of Magic Abatement.
+Harkon wears a Necklace of Nullification and a Ring of Peerless Destruction.
