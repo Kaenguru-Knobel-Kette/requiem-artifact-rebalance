@@ -6,7 +6,7 @@ Dukaan doubles sneak attack damage against all targets.
 Hevnoraak increases one-handed and two-handed damage by 30%.
 Konahrik increases health, stamina and magicka by 100 (Rank II). Shouts are 25% stronger, last 25% longer and shout cooldown is reduced by 20%. Restores 50 health per second. Each hit has a chance of 25% to restore 100 health for 3 seconds and cast a fire, frost and shock cloak for 10 seconds. Each hit has a chance of 5% to spawn a ghostly dragon priest.
 Krosis reduces spell cost by 20%.
-Miraak increases magicka by 400 (Rank II) and reduces shout cooldown by 20%.
+Miraak increases magnitude and duration of spells by 30% and reduces shout cooldown by 20%.
 Morokei increases magicka regeneration by 450%.
 Nahkriin increases magnitude and duration of spells by 25%.
 Otar increases fire, frost and shock resistance by 30%.
@@ -80,9 +80,9 @@ Arch-Mage's Hood reduces spell cost by 20%.
 Arch-Mage's Robes reduce spell cost by 20%, increase magicka regeneration by 300% and increase magic resistance by 25%.
 Arch-Mage's Gloves increase magicka by 150 (Rank II).
 Arch-Mage's Boots increase fire, frost and shock resistance by 30%.
-Miraak's Robes add a chance of 30% to absorb the magicka from incoming spells and increase poison resistance by 100%. When hit, a tentacle explosion deals 150 points of damage to nearby enemies (3 seconds cooldown).
-Mirakk's Gloves add a chance of 10% to absorb the magicka from incoming spells and increase damage of venomous spells by 100%.
-Miraak's Boots add a chance of 10% to absorb the magicka from incoming spells and increase effective mass by 2.
+Miraak's Robes reduce spell cost by 25%, increase magicka regeneration by 300% and increase poison resistance by 100%. When hit, a tentacle explosion deals 400 points of damage to nearby enemies (3 seconds cooldown).
+Mirakk's Gloves increase magicka by 200 (Rank II).
+Miraak's Boots add a chance of 50% to absorb the magicka from incoming spells and increase effective mass by 2.
 The Greybeard's Robes decrease shouting cooldown by 10%.
 The Greybeard's Hood decreases shouting cooldown by 10%.
 The Greybeard's Boots decrease shouting cooldown by 10%.
