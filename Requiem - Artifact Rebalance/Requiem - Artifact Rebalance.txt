@@ -166,6 +166,7 @@ Forsworn Staff is enchanted with Firebolts.
 Halldir's Staff commands a weak-minded target to commit suicide by slicing their wrist and traps its soul should it die. The staff behaves as if the caster has an illusion skill of 100 but no perks.
 Hevnoraak's Staff deals 50 poison damage for 2 seconds and 2 poison damage for 300 seconds.
 Jyrik Gauldurson's Staff evokes a bolt of lightning that deals 60 points of shock damage to health and half that to magicka.
+Miraak's staff sprays tentacles on the ground that deal 400 damage per second to foes. Doesn't use charges.
 Rahgot's Staff is enchanted with Paralysis.
 Sanguine's Rose summons a dremora for 60 seconds. The type of dremora depends on the alcohol level (health buff): 0-24 -> Naked Dremora, 25-49 -> Dremora Archer, 50-99 -> Dremora Warrior, 100+ -> Dremora Mage. Doesn't use charges.
 Skull of Corruption causes creatures and people up to level 666 to flee from combat for 30 seconds. Additionally reduces armor rating by 500 points and magic resistance by 50% when powered with dreams collected from sleeping people. Doesn't use charges.
