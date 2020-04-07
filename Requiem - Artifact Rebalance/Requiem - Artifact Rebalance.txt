@@ -121,24 +121,24 @@ Spellbreaker reduces maximum magicka of nearby mages by 50 points per disease co
 
 Keening has no enchantment. Base damage is decreased to 13.
 Mehrunes' Razor deals 10 points of irresistible damage for killing at least 100 people, animals, creatures, undead, daedra and dwarven constructs (each enemy type counts separately). Doesn't use charges. Base damage is decreased to 10.
-Nettlebane does 10 points of fire damage for 5 seconds to spriggans and staggers them. Doesn't use charges.
+Nettlebane deals 10 points of fire damage for 5 seconds to spriggans and staggers them. Doesn't use charges.
 Valdr's Lucky Dagger is enchanted with paralysis. Base damage is increased to 8.
 
 Bloodscythe absorbs 25 points of health. When attacking with two weapons, damage taken is halved. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
-Bolar's Oathblade deals 30 irresistible damage to Thalmor and makes them flee combat for 30 seconds. Doesn't use charges.
-Chillrend does 30 points of frost damage and paralyzes the target for 2 seconds.
+Bolar's Oathblade deals 30 damage to Thalmor and makes them flee combat for 30 seconds. Doesn't use charges.
+Chillrend deals 30 points of frost damage and paralyzes the target for 2 seconds.
 Dawnbreaker deals 0.2 points of sun damage to undead for every undead killed and turns undead up to level [undead killed / 10]. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 points of sun damage. Doesn't use charges. Base damage is decreased to 9. Vampires can touch Dawnbreaker and Meridia's Beacon without punishment.
-Dragonbane does 150 irresistible damage to dragons. Base damage is decreased to 12.
+Dragonbane deals 150 damage to dragons. Base damage is decreased to 12.
 Ghostblade completely ignores armor rating. This doesn't include inherent damage reductions against slashing damage.
 Harkon's Sword absorbs 50 points of health, stamina and magicka and makes the target vulnerable to soul gems for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
 Miraak's Sword paralyzes targets for 10 seconds. Additionally deals 10 damage per second for 10 seconds. The sword has increased range to match its animation. Doesn't use charges.
-Red Eagle's Bane does 10 points of fire damage and absorbs 10 points of health and stamina.
+Red Eagle's Bane deals 10 points of fire damage and absorbs 10 points of health and stamina.
 Soulrender makes the target vulnerable to soul gems for 1 seconds. When attacking with two weapons, damage taken is halved. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Spectral Sword drains 100 points of magicka for 3 seconds. Doesn't use charges.
 
 Dawnguard Rune War Axe deals 1 point of sun damage per undead killed with the war axe (capped at 100 undead killed). Doesn't use charges.
 Kyne's War Axe deals 10 points of shock damage when the blessing of Kyne is active. Deals another 15 points of shock damage for each of Kyne's greater blessings. Doesn't use charges.
-Poacher's Axe deals 10 points of extra damage to animals.
+Poacher's Axe deals 10 points damage to animals.
 
 Mace of Molag Bal absorbs 0.1 points of magicka and stamina for every soul trapped and makes the target vulnerable to soul gems for 1 second for every 100 souls trapped. Doesn't use charges. Base damage is decreased to 15.
 
@@ -150,14 +150,14 @@ Spectral Battleaxe drains 100 points of health for 3 seconds. Doesn't use charge
 Wuuthrad deals 50 points of shock damage. Additionally it deals 50 points of shock damage to Bretons and Orcs, 150 points of shock damage to Dark Elves, High Elves, Wood Elves and Falmer and 250 points of shock damage to giants. Doesn't use charges. Base damage is decreased to 23. Reduces shock resistance by 20% if wielded by a Breton or Orc and 40% if wielded by a Dark Elf, High Elf or Wood Elf.
 
 Dawnguard Rune Warhammer deals 1 point of sun damage per undead killed with the warhammer (capped at 100 undead killed). Doesn't use charges.
-Trollsbane does 5 points of fire damage for 5 seconds to trolls.
+Trollsbane deals 5 points of fire damage for 5 seconds to trolls.
 Volendrung absorbs 0.25 points of stamina for every every point of base health above 100 and reduces the target's damage and the amount of blockable damage for 10 seconds by 0.25% for every point of base health above 100. Attack speed is increased by 0.05% for every every point of base health above 100. Doesn't use charges. Base damage is decreased to 25.
 
-Auriel's Bow does 50 points of sun damage and additional 100 points to undead. Doesn't use charges. Base damage is increased to 100.
+Auriel's Bow deals 50 points of sun damage and additional 100 points to undead. Doesn't use charges. Base damage is increased to 100.
 The duration of the special effect triggered by shooting Sunhallowed Elven Arrows at the sun is increased to 60 seconds and damage is increased to 150 and an additional 300 to undead.
-Bow of the Hunt does 80 points of extra damage to animals. Can be disenchanted.
-Firiniel's End does 20 points of shock damage and turns targets into an ash pile upon death. Disenchanting yields the normal shock enchantment. Doesn't use charges.
-Jon's Crossbow does 1000 damage to anything that carries fruits.
+Bow of the Hunt deals 80 points of damage to animals. Can be disenchanted.
+Firiniel's End deals 20 points of shock damage and turns targets into an ash pile upon death. Disenchanting yields the normal shock enchantment. Doesn't use charges.
+Jon's Crossbow deals 1000 damage to anything that carries fruits.
 Spectral Bow drains 100 points of stamina for 3 seconds. Doesn't use charges.
 
 Aetherium Staff summons an enchanted sphere for 300 seconds.
