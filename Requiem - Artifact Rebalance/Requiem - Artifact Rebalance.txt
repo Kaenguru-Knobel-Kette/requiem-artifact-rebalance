@@ -98,6 +98,7 @@ Helm of Yngol increases frost resistance by 50%.
 Masque of Clavicus Vile improves prices by 30% and intimidation checks in dialogue will almost always succeed. Armor type is changed to clothing.
 
 Movarth's Boots grant waterwalking.
+Predator's Grace reduce movement noise by 100%.
 
 Gauldur Amulet Fragments increase magicka by 30.
 Gauldur Amulet increases magicka by 50% of the wearer's base magicka (Rank II).
