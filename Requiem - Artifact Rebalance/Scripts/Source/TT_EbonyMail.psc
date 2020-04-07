@@ -12,8 +12,8 @@ Event OnEffectStart(Actor akTarget, Actor akCaster)
 		ResistFire.SetNthEffectMagnitude(0, 60)
 	Else
 		Int Murders = Game.QueryStat("Murders")
-		ResistMagic.SetNthEffectMagnitude(0, Murders * 0.5)
-		ResistFire.SetNthEffectMagnitude(0, Murders * 1.5)
+		ResistMagic.SetNthEffectMagnitude(0, Murders * 0.25)
+		ResistFire.SetNthEffectMagnitude(0, Murders * 0.75)
 	EndIf
 	akTarget.AddSpell(ResistMagic, False)
 	akTarget.AddSpell(ResistFire, False)
