@@ -197,9 +197,9 @@ Blessing of Kyne makes animals friends. Additionally:
  - Completing Climb the Steps increases stamina by 50 (Rank II).
  - Completing The Blessings of Nature by returning a sapling increases health by 50 (Rank II).
  - Completing Glory of the Dead up to stage 30 increases one-handed, two-handed and ranged damage by 30%.
- - Completing A Blade in the Dark reduces shout cooldown by 15%.
- - Completing Alduin's Bane reduces shout cooldown by 15%.
- - Completing Dragonslayer reduces shout cooldown by 15%.
+ - Completing A Blade in the Dark reduces shout cooldown by 10%.
+ - Completing Alduin's Bane reduces shout cooldown by 10%.
+ - Completing Dragonslayer increases health, magicka and stamina by 100.
 Blessing of Namira increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
 Summon Shade of Arniel Gane can only be used if Keening is equipped. The shade is immune to all attacks.
 Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
