@@ -49,10 +49,10 @@ Guild Master's Hood increases haggling by 35%.
 Guild Master's Armor increases carrying weight by 75 points.
 Guild Master's Gloves increase lockpicking skill by 30 and lockpicking expertise by 40.
 Guild Master's Boots make pickpocketing 100% easier.
-Harbinger Helmet increases magic resistance by 6% when worn by the Harbinger of the Companions and no magic perks are taken.
-Harbinger Armor increases magic resistance by 6% when worn by the Harbinger of the Companions and no magic perks are taken.
-Harbinger Gauntlets increase magic resistance by 6% when worn by the Harbinger of the Companions and no magic perks are taken.
-Harbinger Boots increase magic resistance by 6% when worn by the Harbinger of the Companions and no magic perks are taken.
+Harbinger Helmet increases magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
+Harbinger Armor increases magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
+Harbinger Gauntlets increase magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
+Harbinger Boots increase magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
 Nightingale Hood reduces illusion spell cost by 20%, increases magicka (Rank II) by 50 and increases magicka regeneration by 200%.
 Nightingale Armor increases magic resistance by 20%, poison resistance by 100% and stamina (Rank II) by 50.
 Nightingale Gauntlets increase one-handed and ranged damage by 25%.
