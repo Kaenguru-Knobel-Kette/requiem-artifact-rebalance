@@ -14,6 +14,20 @@ Spell Property ResistPoison Auto
 
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
+	RescaleEnchantment()
+	akTarget.AddSpell(ResistMagic, False)
+	akTarget.AddSpell(ResistPoison, False)
+	akTarget.AddSpell(ResistDisease, False)
+EndEvent
+
+Event OnEffectFinish(Actor akTarget, Actor akCaster)
+	akTarget.RemoveSpell(ResistMagic)
+	akTarget.RemoveSpell(ResistPoison)
+	akTarget.RemoveSpell(ResistDisease)
+EndEvent
+
+
+Function RescaleEnchantment()
 	Int GreatBeastsSlain = 0
 	If GiantSlaughterfish.GetDeadCount() >= 1
 		GreatBeastsSlain += 1
@@ -39,13 +53,4 @@ Event OnEffectStart(Actor akTarget, Actor akCaster)
 	ResistMagic.SetNthEffectMagnitude(0, 10 + GreatBeastsSlain * 3)
 	ResistPoison.SetNthEffectMagnitude(0, 30 + GreatBeastsSlain * 10)
 	ResistDisease.SetNthEffectMagnitude(0, 30 + GreatBeastsSlain * 10)
-	akTarget.AddSpell(ResistMagic, False)
-	akTarget.AddSpell(ResistPoison, False)
-	akTarget.AddSpell(ResistDisease, False)
-EndEvent
-
-Event OnEffectFinish(Actor akTarget, Actor akCaster)
-	akTarget.RemoveSpell(ResistMagic)
-	akTarget.RemoveSpell(ResistPoison)
-	akTarget.RemoveSpell(ResistDisease)
-EndEvent
+EndFunction

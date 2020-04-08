@@ -10,8 +10,6 @@ TT_ReapplyNonPersistentChanges Property ReapplyNonPersistentChanges Auto
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	RescaleEnchantment()
-	RescaleAttackSpeed()
-	UpdateDescription()
 	akTarget.AddSpell(AttackSpeed, False)
 	akTarget.AddSpell(Description, False)
 	ReapplyNonPersistentChanges.VolendrungScript = Self
@@ -24,38 +22,23 @@ Event OnEffectFinish(Actor akTarget, Actor akCaster)
 EndEvent
 
 
-Float Function GetEffectiveBaseHealth()
-	Float EffectiveBaseHealth = Game.GetPlayer().GetBaseActorValue("Health") - 100
-	If EffectiveBaseHealth < 0
-		EffectiveBaseHealth = 0
-	EndIf
-	Return EffectiveBaseHealth
-EndFunction
-
 Function ReapplyNonPersistentChanges()
 	Actor Target = GetTargetActor()
 	Target.RemoveSpell(AttackSpeed)
 	Target.RemoveSpell(Description)
 	RescaleEnchantment()
-	RescaleAttackSpeed()
-	UpdateDescription()
 	Target.AddSpell(AttackSpeed, False)
 	Target.AddSpell(Description, False)
 EndFunction
 
-Function RescaleAttackSpeed()
-	Float EffectiveBaseHealth = GetEffectiveBaseHealth()
-	AttackSpeed.SetNthEffectMagnitude(0, EffectiveBaseHealth * 0.05)
-	AttackSpeed.SetNthEffectMagnitude(1, EffectiveBaseHealth * 0.0005)
-EndFunction
-
 Function RescaleEnchantment()
-	Float EffectiveBaseHealth = GetEffectiveBaseHealth()
+	Float EffectiveBaseHealth = Game.GetPlayer().GetBaseActorValue("Health") - 100
+	If EffectiveBaseHealth < 0
+		EffectiveBaseHealth = 0
+	EndIf
 	VolendrungEnch.SetNthEffectMagnitude(0, EffectiveBaseHealth * 0.25)
 	VolendrungEnch.SetNthEffectMagnitude(1, EffectiveBaseHealth * 0.25)
-EndFunction
-
-Function UpdateDescription()
-	Float EffectiveBaseHealth = GetEffectiveBaseHealth()
+	AttackSpeed.SetNthEffectMagnitude(0, EffectiveBaseHealth * 0.05)
+	AttackSpeed.SetNthEffectMagnitude(1, EffectiveBaseHealth * 0.0005)
 	Description.SetNthEffectMagnitude(0, EffectiveBaseHealth * 0.25)
 EndFunction

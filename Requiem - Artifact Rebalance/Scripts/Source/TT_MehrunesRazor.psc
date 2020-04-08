@@ -9,7 +9,6 @@ TT_ReapplyNonPersistentChanges Property ReapplyNonPersistentChanges Auto
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	RescaleEnchantment()
-	UpdateDescription()
 	akTarget.AddSpell(Description, False)
 	ReapplyNonPersistentChanges.MehrunesRazorScript = Self
 EndEvent
@@ -24,52 +23,29 @@ Function ReapplyNonPersistentChanges()
 	Actor Target = GetTargetActor()
 	Target.RemoveSpell(Description)
 	RescaleEnchantment()
-	UpdateDescription()
 	Target.AddSpell(Description, False)
 EndFunction
 
 Function RescaleEnchantment()
-	Float Mag = 0.0
+	Float Magnitude = 0.0
 	If Game.QueryStat("People Killed") >= 100
-		Mag += 10.0
+		Magnitude += 10.0
 	EndIf
 	If Game.QueryStat("Animals Killed") >= 100
-		Mag += 10.0
+		Magnitude += 10.0
 	EndIf
 	If Game.QueryStat("Creatures Killed") >= 100
-		Mag += 10.0
+		Magnitude += 10.0
 	EndIf
 	If Game.QueryStat("Undead Killed") >= 100
-		Mag += 10.0
+		Magnitude += 10.0
 	EndIf
 	If Game.QueryStat("Daedra Killed") >= 100
-		Mag += 10.0
+		Magnitude += 10.0
 	EndIf
 	If Game.QueryStat("Automatons Killed") >= 100
-		Mag += 10.0
+		Magnitude += 10.0
 	EndIf
-	MehrunesRazorEnch.SetNthEffectMagnitude(0, Mag)
-EndFunction
-
-Function UpdateDescription()
-	Float Mag = 0.0
-	If Game.QueryStat("People Killed") >= 100
-		Mag += 10.0
-	EndIf
-	If Game.QueryStat("Animals Killed") >= 100
-		Mag += 10.0
-	EndIf
-	If Game.QueryStat("Creatures Killed") >= 100
-		Mag += 10.0
-	EndIf
-	If Game.QueryStat("Undead Killed") >= 100
-		Mag += 10.0
-	EndIf
-	If Game.QueryStat("Daedra Killed") >= 100
-		Mag += 10.0
-	EndIf
-	If Game.QueryStat("Automatons Killed") >= 100
-		Mag += 10.0
-	EndIf
-	Description.SetNthEffectMagnitude(0, Mag)
+	MehrunesRazorEnch.SetNthEffectMagnitude(0, Magnitude)
+	Description.SetNthEffectMagnitude(0, Magnitude)
 EndFunction

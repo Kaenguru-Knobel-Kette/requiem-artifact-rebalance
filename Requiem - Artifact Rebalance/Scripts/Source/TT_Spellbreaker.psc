@@ -8,10 +8,7 @@ TT_ReapplyNonPersistentChanges Property ReapplyNonPersistentChanges Auto
 
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
-	Int DiseasesContracted = Game.QueryStat("Diseases Contracted")
-	Silence.SetNthEffectMagnitude(0, DiseasesContracted * 50)
-	SilenceCloak.SetNthEffectMagnitude(0, DiseasesContracted * 50)
-	Ward.SetNthEffectMagnitude(0, DiseasesContracted * 50)
+	RescaleEnchantment()
 	akTarget.AddSpell(SilenceCloak, False)
 	akTarget.AddSpell(Ward, False)
 	ReapplyNonPersistentChanges.SpellbreakerScript = Self
@@ -27,4 +24,12 @@ EndEvent
 Function ReapplyNonPersistentChanges()
 	Int DiseasesContracted = Game.QueryStat("Diseases Contracted")
 	Silence.SetNthEffectMagnitude(0, DiseasesContracted * 50)
+EndFunction
+
+
+Function RescaleEnchantment()
+	Int DiseasesContracted = Game.QueryStat("Diseases Contracted")
+	Silence.SetNthEffectMagnitude(0, DiseasesContracted * 50)
+	SilenceCloak.SetNthEffectMagnitude(0, DiseasesContracted * 50)
+	Ward.SetNthEffectMagnitude(0, DiseasesContracted * 50)
 EndFunction

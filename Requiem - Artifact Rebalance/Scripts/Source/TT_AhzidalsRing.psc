@@ -24,7 +24,7 @@ EndEvent
 
 
 Function TriggerExplosion()
-	If (!Exploded)
+	If !Exploded
 		Exploded = True
 		KamikazeSpell.Cast(Self, Self)
 		Kill()

@@ -9,7 +9,6 @@ TT_ReapplyNonPersistentChanges Property ReapplyNonPersistentChanges Auto
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	RescaleEnchantment()
-	UpdateDescription()
 	akTarget.AddSpell(Description, False)
 	ReapplyNonPersistentChanges.MaceOfMolagBalScript = Self
 EndEvent
@@ -24,7 +23,6 @@ Function ReapplyNonPersistentChanges()
 	Actor Target = GetTargetActor()
 	Target.RemoveSpell(Description)
 	RescaleEnchantment()
-	UpdateDescription()
 	Target.AddSpell(Description, False)
 EndFunction
 
@@ -33,9 +31,5 @@ Function RescaleEnchantment()
 	MaceOfMolagBalEnch.SetNthEffectMagnitude(0, SoulsTrapped * 0.1)
 	MaceOfMolagBalEnch.SetNthEffectMagnitude(1, SoulsTrapped * 0.1)
 	MaceOfMolagBalEnch.SetNthEffectDuration(2, SoulsTrapped / 100)
-EndFunction
-
-Function UpdateDescription()
-	Int SoulsTrapped = Game.QueryStat("Souls Trapped")
 	Description.SetNthEffectMagnitude(0, SoulsTrapped * 0.1)
 EndFunction

@@ -11,7 +11,6 @@ TT_ReapplyNonPersistentChanges Property ReapplyNonPersistentChanges Auto
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	RescaleEnchantment()
-	UpdateDescription()
 	akTarget.AddSpell(Description, False)
 	ReapplyNonPersistentChanges.EbonyBladeScript = Self
 EndEvent
@@ -26,14 +25,10 @@ Function ReapplyNonPersistentChanges()
 	Actor Target = GetTargetActor()
 	Target.RemoveSpell(Description)
 	RescaleEnchantment()
-	UpdateDescription()
 	Target.AddSpell(Description, False)
 EndFunction
 
 Function RescaleEnchantment()
 	EbonyBladeEnch.SetNthEffectMagnitude(0, EbonyBladeTracker.FriendsKilled)
-EndFunction
-
-Function UpdateDescription()
 	Description.SetNthEffectMagnitude(0, EbonyBladeTracker.FriendsKilled)
 EndFunction

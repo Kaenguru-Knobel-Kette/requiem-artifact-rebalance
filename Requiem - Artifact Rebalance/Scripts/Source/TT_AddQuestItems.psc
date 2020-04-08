@@ -10,23 +10,23 @@ Int Property Stage Auto
 Quest Property MyQuest Auto
 
 
-Bool InitDone = False ; prevents items from being added again
+Bool Done = False
 
 
 Event OnLoad()
-	If !InitDone && MyQuest.GetStageDone(Stage)
-		int i = 0
+	If !Done && MyQuest.GetStageDone(Stage)
+		Int i = 0
 		If !Amount
 			While i < Items.Length
-				Self.Additem(Items[i], 1, True)
+				Additem(Items[i], 1, True)
 				i += 1
 			EndWhile
 		Else
 			While i < Items.Length
-				Self.Additem(Items[i], Amount[i], True)
+				Additem(Items[i], Amount[i], True)
 				i += 1
 			EndWhile
 		EndIf
-		InitDone = True
+		Done = True
 	EndIf
 EndEvent
