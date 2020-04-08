@@ -5,9 +5,8 @@ Quest Property CompanionsCentralQuest Auto
 
 
 Event OnEquipped(Actor akActor)
-	Actor Player = Game.GetPlayer()
-	If (akActor == Player && (CompanionsCentralQuest as CompanionsHousekeepingScript).PlayerHasBeastBlood)
-		Player.RemoveSpell(HircinesRingPower)
-		Player.AddSpell(HircinesRingPower, False)
+	If akActor == Game.GetPlayer() && (CompanionsCentralQuest As CompanionsHousekeepingScript).PlayerHasBeastBlood
+		akActor.RemoveSpell(HircinesRingPower)
+		akActor.AddSpell(HircinesRingPower, False)
 	EndIf
 EndEvent

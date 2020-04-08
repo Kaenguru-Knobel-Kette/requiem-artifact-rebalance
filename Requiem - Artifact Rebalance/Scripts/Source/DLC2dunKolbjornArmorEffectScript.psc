@@ -7,7 +7,7 @@ Keyword Property WeapTypeBow Auto
 
 
 Event OnHit(ObjectReference akAggressor, Form akSource, Projectile akProjectile, Bool abPowerAttack, Bool abSneakAttack, Bool abBashAttack, Bool abHitBlocked)
-	If ((akSource As Weapon) != None && !akSource.HasKeyword(WeapTypeBow) && (akAggressor As Actor) != None && !abHitBlocked)
+	If (akSource As Weapon) != None && !akSource.HasKeyword(WeapTypeBow) && (akAggressor As Actor) != None && !abHitBlocked
 		MAGParalysisEnchantment.Play(akAggressor)
 		DLC2dunKolbjornArmorParalyze.Cast(akAggressor)
 	EndIf
