@@ -5,6 +5,7 @@ TT_DawnguardRuneWarAxe Property DawnguardRuneWarAxeScript Auto
 TT_DawnguardRuneWarhammer Property DawnguardRuneWarhammerScript Auto
 TT_EbonyBlade Property EbonyBladeScript Auto
 TT_MaceOfMolagBal Property MaceOfMolagBalScript Auto
+TT_MehrunesRazor Property MehrunesRazorScript Auto
 TT_Spellbreaker Property SpellbreakerScript Auto
 TT_Volendrung Property VolendrungScript Auto
 
@@ -24,6 +25,9 @@ Event OnPlayerLoadGame()
 	EndIf
 	If MaceOfMolagBalScript != None
 		MaceOfMolagBalScript.ReapplyNonPersistentChanges()
+	EndIf
+	If MehrunesRazorScript != None
+		MehrunesRazorScript.ReapplyNonPersistentChanges()
 	EndIf
 	If SpellbreakerScript != None
 		SpellbreakerScript.ReapplyNonPersistentChanges()
