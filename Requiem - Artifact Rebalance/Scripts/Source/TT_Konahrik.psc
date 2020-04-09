@@ -1,6 +1,4 @@
-Scriptname TT_Ench_Konahrik extends ActiveMagicEffect  
-
-Explosion Property FakeForceBall1024 Auto
+Scriptname TT_Konahrik extends ActiveMagicEffect  
 
 Spell Property FlameCloak Auto
 Spell Property FrostCloak Auto
@@ -23,18 +21,18 @@ Event OnHit(ObjectReference akAggressor, Form akSource, Projectile akProjectile,
 	If IsReady && (akAggressor As Actor) != None && akAggressor != Wearer
 		IsReady = False
 		Float Dice = Utility.RandomFloat()
-		If Dice < 0.25
-			Wearer.PlaceAtMe(FakeForceBall1024)
-			Wearer.KnockAreaEffect(1, 1024)
+		If Dice < 0.5
 			Healing.Cast(Wearer)
-			Wearer.DispelSpell(FlameCloak)
-			Wearer.DispelSpell(FrostCloak)
-			Wearer.DispelSpell(LightningCloak)
-			FlameCloak.Cast(Wearer)
-			FrostCloak.Cast(Wearer)
-			LightningCloak.Cast(Wearer)
-			If Dice < 0.05
-				SummonDragonPriest.Cast(Wearer)
+			If Dice < 0.25
+				Wearer.DispelSpell(FlameCloak)
+				Wearer.DispelSpell(FrostCloak)
+				Wearer.DispelSpell(LightningCloak)
+				FlameCloak.Cast(Wearer)
+				FrostCloak.Cast(Wearer)
+				LightningCloak.Cast(Wearer)
+				If Dice < 0.05
+					SummonDragonPriest.Cast(Wearer)
+				EndIf
 			EndIf
 		EndIf
 		Utility.Wait(1.0)
