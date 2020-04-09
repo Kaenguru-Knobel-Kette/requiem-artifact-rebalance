@@ -154,13 +154,16 @@ Dawnguard Rune Warhammer deals 1 point of sun damage per undead killed with the 
 Trollsbane deals 5 points of fire damage for 5 seconds to trolls.
 Volendrung absorbs 0.25 points of stamina for every every point of base health above 100 and reduces the target's damage and the amount of blockable damage for 10 seconds by 0.25% for every point of base health above 100. Attack speed is increased by 0.05% for every every point of base health above 100. Doesn't use charges. Base damage is decreased to 25.
 
-Auriel's Bow deals 50 points of sun damage and additional 100 points to undead. Doesn't use charges. Base damage is increased to 100.
+Auriel's Bow deals 60 points of sun damage and additional 90 points to undead. Doesn't use charges. Base damage is increased to 100.
 The duration of the special effect triggered by shooting Sunhallowed Elven Arrows at the sun is increased to 60 seconds and damage is increased to 150 and an additional 300 to undead.
 Bow of the Hunt deals 80 points of damage to animals. Can be disenchanted.
 Firiniel's End deals 20 points of shock damage and turns targets into an ash pile upon death. Disenchanting yields the normal shock enchantment. Doesn't use charges.
 Jon's Crossbow deals 1000 damage to anything that carries fruits.
 Nightingale Bow deals 15 points of fire, frost and shock damage.
 Spectral Bow drains 100 points of stamina for 3 seconds. Doesn't use charges.
+
+Bloodcursed Elven Arrow has tier 7 armor piercing.
+Sunhallowed Elven Arrow deals 40 points of sun damage and additional 60 points to undead. Base damage is decreased to 66.
 
 Aetherium Staff summons an enchanted sphere for 300 seconds.
 Dragon Priest Staff is enchanted with Souldrinker.
