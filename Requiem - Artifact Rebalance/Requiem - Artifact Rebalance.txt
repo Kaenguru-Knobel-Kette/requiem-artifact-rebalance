@@ -205,6 +205,7 @@ Blessing of Kyne makes animals friends. Additionally:
  - Completing Alduin's Bane reduces shout cooldown by 10%.
  - Completing Dragonslayer increases health, magicka and stamina by 100.
 Blessing of Namira increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
+Shrine blessings of Azura, Boethiah, Mephala and Nocturnal only apply cleansing.
 Summon Shade of Arniel Gane can only be used if Keening is equipped. The shade is immune to all attacks.
 Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
