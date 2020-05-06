@@ -106,7 +106,7 @@ Saarthal Amulet reduces spell cost by 12%.
 Savos Aren's Amulet increases magic resistance by 20%.
 
 Ring of Hircine increases health by 75 points (Rank II) and grants unlimited transformations to Werewolves.
-Ring of Namira allows feeding on corpses which grants the blessing of Namira.
+Ring of Namira allows feeding on corpses which grants the blessing of Namira. Blessing of Namira increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
 
 Blocking with the Aetherium Shield renders the carrier ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
 Auriel's Shield partially reflects blocked melee attacks back to the enemy and stores the remaining energy. Performing a power bash will release the stored energy and deal 100/200/300 damage for 1/2/3 blocked hits. Armor type is changed to light armor.
@@ -116,7 +116,7 @@ Shield of Solitude increases magic resistance by 20% and increases the amount of
 Shield of Ysgramor increases magic resistance by 30%. Weight is increased to 20.
 Spellbreaker reduces maximum magicka of nearby mages by 50 points per disease contracted. Blocking creates a ward that protects against spells for up to 50 damage per disease contracted.
 
-Keening has no enchantment. Base damage is decreased to 13.
+Keening has no enchantment. Base damage is decreased to 13. Summon Shade of Arniel Gane can only be used if Keening is equipped. The shade is immune to all attacks.
 Mehrunes' Razor deals 10 points of damage for killing at least 100 people, animals, creatures, undead, daedra and dwarven constructs (each enemy type counts separately). Doesn't use charges. Base damage is decreased to 10.
 Nettlebane deals 10 points of fire damage for 5 seconds to spriggans and staggers them. Doesn't use charges.
 Valdr's Lucky Dagger is enchanted with paralysis. Base damage is increased to 8.
@@ -204,9 +204,7 @@ Blessing of Kyne makes animals friends. Additionally:
  - Completing A Blade in the Dark reduces shout cooldown by 10%.
  - Completing Alduin's Bane reduces shout cooldown by 10%.
  - Completing Dragonslayer increases health, magicka and stamina by 100.
-Blessing of Namira increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
 Shrine blessings of Azura, Boethiah, Mephala and Nocturnal only apply cleansing.
-Summon Shade of Arniel Gane can only be used if Keening is equipped. The shade is immune to all attacks.
 Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
 The White Phial refills every 15 minutes (real time) or when going to sleep. It has one of the following effects:
