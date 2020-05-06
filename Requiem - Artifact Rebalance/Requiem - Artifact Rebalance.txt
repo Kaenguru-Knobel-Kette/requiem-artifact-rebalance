@@ -196,6 +196,7 @@ Soul tomatoes can be crafted at a cooking pot when the Wabbajack is equipped.
 
 Oghma Infinium only grants 7 perk points.
 
+Agent of Dibella increases magnitude of enchantments placed on items by 10%.
 Agent of Mara increases magnitude of healing spells by 10%.
 Blessing of the Blades (fka Dragonslayer's Blessing) increases physical damage dealt to dragons by 10%.
 Blessing of Kyne makes animals friends. Additionally:
