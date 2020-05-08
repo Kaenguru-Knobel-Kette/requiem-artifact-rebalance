@@ -18,7 +18,7 @@ Zahkriisos increases damage dealt with Bloodskale Blade by 50% and increases dam
 Aetherium Helmet reduces spell cost by 20%.
 Aetherium Armor reduces spell cost by 20%. Inherits additional damage resistances from Dwarven Armor.
 Aetherium Gauntlets increase magicka (Rank II) by 75 points.
-Aetherium Boots increase carry weight by 50.
+Aetherium Boots increase frost resistance by 50%.
 Ahzidal's Helmet grants the ability to see in the dark.
 Ahzidal's Armor paralyzes enemies who strike its wearer with a melee attack. Reduces spell cost by 40% when wearing the full set of Ahzidal's armor.
 Ahzidal's Gauntlets absorb 75% of the magicka from incoming spells that are blocked by a ward.
