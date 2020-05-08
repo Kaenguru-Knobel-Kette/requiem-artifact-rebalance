@@ -196,8 +196,9 @@ Soul tomatoes can be crafted at a cooking pot when the Wabbajack is equipped.
 
 Oghma Infinium only grants 7 perk points.
 
-Agent of Dibella increases magnitude of enchantments placed on items by 10%.
+Agent of Dibella increases magnitude of enchantments placed on items by 5%.
 Agent of Mara increases magnitude of healing spells by 10%.
+Ancient Knowledge improves tempering weapons and armors by 5%. Allows tempering Dwarven weapons and armors without Dwarven Smithing. Tempering Dwarven weapons and armors is improved by an undeterminable amount.
 Blessing of the Blades (fka Dragonslayer's Blessing) increases physical damage dealt to dragons by 10%.
 Blessing of Kyne makes animals friends. Additionally:
  - Completing Climb the Steps increases stamina by 50 (Rank II).
