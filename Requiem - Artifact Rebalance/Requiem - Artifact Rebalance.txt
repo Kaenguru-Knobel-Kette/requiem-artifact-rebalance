@@ -91,7 +91,7 @@ Savior's Hide increases magic resistance by 10%, poison and disease resistance b
 Aetherium Crown restores 8 magicka per second.
 Ancient Helmet of the Unburned increases fire resistance by 100%.
 Diadem of the Savant reduces spell cost by 16%.
-Helm of Yngol increases frost resistance by 50%.
+Helm of Yngol increases frost resistance by 40%.
 Masque of Clavicus Vile improves prices by 30% and intimidation checks in dialogue will almost always succeed. Armor type is changed to clothing.
 
 Movarth's Boots grant waterwalking.
