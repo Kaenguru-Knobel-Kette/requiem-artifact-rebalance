@@ -208,6 +208,7 @@ Blessing of Kyne makes animals friends. Additionally:
  - Completing Alduin's Bane reduces shout cooldown by 10%.
  - Completing Dragonslayer increases health, magicka and stamina by 100.
 Neloth's Experimental Spell increases health by 50. After swimming or being in the rain it permanently lowers health by 50 instead.
+Prowler's Profit increases movement speed by 10%. The previous effect, more gems in loot, has been merged into the Treasure Hunter perk.
 Sailor's Repose increases magic resistance by 5%.
 Shrine blessings of Azura, Boethiah, Mephala and Nocturnal only apply cleansing.
 Sinderion's Serendipity increases magnitude of mixed potions and poisons by 5%.
