@@ -1,6 +1,6 @@
 The values listed for melee weapon damage are prior to running the Reqtificator. Final damage will be 6 times higher.
 
-Dragon priest masks armor type can be changed on the workbench in Bromjunaar Sanctuary. Light armor rating is 70 and heavy armor rating is 125. Tempering requires Legendary Blacksmithing.
+Dragon priest masks armor type can be changed on the workbench in Bromjunaar Sanctuary. Their armor rating and weight matches a dragonscale respectively dragonplate helmet. Tempering requires Legendary Blacksmithing.
 Ahzidal tosses around nearby Elves. Falmer and Snow Elves are affected every 15 seconds. High Elves, Wood Elves and Dark Elves are affected every 30 seconds. Bretons and Orcs are affected every 60 seconds.
 Dukaan doubles sneak attack damage against all targets.
 Hevnoraak increases one-handed and two-handed damage by 30%.
@@ -31,11 +31,11 @@ Ancient Shrouded Gloves increase one-handed damage by 30%.
 Ancient Shrouded Boots increase stamina (Rank II) by 70.
 Cicero's Hat improves sneaking by 40%.
 Cicero's Clothes reduce illusion spell cost by 20% and increase magicka regeneration by 250%.
-Cicero's Gloves increase one-handed and marksman expertise by 40.
+Cicero's Gloves increase armor penetration by 10%.
 Cicero's Boots reduce movement noise by 100%.
 Deathbrand Helmet grants waterbreathing and increases carry weight by 100. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Deathbrand Armor increases magic resistance by 20% and increases health by 75 (Rank II). Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
-Deathbrand Gauntlets increase one-handed damage by 30% and increase armor rating 100. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
+Deathbrand Gauntlets increase one-handed damage by 30% and increase armor rating by 100. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Deathbrand Boots increase stamina by 75 (Rank II) and stamina regeneration by 100%. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Dwarven Helmet of Arkngthamz increases lockpicking skill by 18 and lockpicking expertise by 20 points.
 Dwarven Armor of Mzulft increases magic resistance by 20%.
@@ -60,12 +60,11 @@ Shrouded Gloves increase one-handed damage by 10%.
 Shrouded Boots increase stamina by 30.
 Shrouded Hood improves sneaking by 25%.
 Shrouded Robes reduce illusion spell cost by 15% and increase magicka regeneration by 100%.
-Shrouded Hand Wraps increase one-handed and marksman expertise by 15.
+Shrouded Hand Wraps increase armor penetration by 5%.
 Shrouded Shoes reduce movement noise by 50%.
 Ulfric's Armor increases magic resistance by 20%.
 Ulfric's Gauntlets increase one-handed damage by 30%.
 Ulfric's Boots increase shock resistance by 50%.
-Ulfric's Shield increases magic resistance by 20% and armor rating by 100.
 
 Dawnguard War Axe turns undead up to level 30 for 5 seconds. Also deals 30 additional damage against undead.
 Dawnguard Warhammer turns undead up to level 30 for 5 seconds. Also deals 30 additional damage against undead.
@@ -84,7 +83,7 @@ The Greybeard's Robes decrease shouting cooldown by 10%.
 The Greybeard's Hood decreases shouting cooldown by 10%.
 The Greybeard's Boots decrease shouting cooldown by 10%.
 
-Ebony Mail increases magic resistance by 0.25% and fire resistance by 0.75% for every murder. Armor rating and weight is increased to match an ebony cuirass.
+Ebony Mail increases magic resistance by 0.25% and fire resistance by 0.75% for every murder.
 Harkon's and Valerica's armor reduces spell cost by 20% and increases magicka regeneration by 300%.
 Savior's Hide increases magic resistance by 10%, poison and disease resistance by 30%. Whenever a great beast (Giant Slaughterfish, Gigantic Mudcrab, Gorak the Trollslayer, Kru'ul, Ragnok, Snow, Ulik) is slain for the first time, magic resistance is increased by 3% and poison and disease resistance by 10%.
 
@@ -92,7 +91,7 @@ Aetherium Crown restores 8 magicka per second.
 Ancient Helmet of the Unburned increases fire resistance by 100%.
 Diadem of the Savant reduces spell cost by 16%.
 Helm of Yngol increases frost resistance by 40%.
-Masque of Clavicus Vile improves prices by 30% and intimidation checks in dialogue will almost always succeed. Armor type is changed to clothing.
+Masque of Clavicus Vile improves prices by 30% and intimidation checks in dialogue will almost always succeed.
 
 Movarth's Boots grant waterwalking.
 Predator's Grace reduce movement noise by 100%.
@@ -109,11 +108,11 @@ Ring of Hircine increases health by 75 points (Rank II) and grants unlimited tra
 Ring of Namira allows feeding on corpses which grants the blessing of Namira. Blessing of Namira increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
 
 Blocking with the Aetherium Shield renders the carrier ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
-Auriel's Shield partially reflects blocked melee attacks back to the enemy and stores the remaining energy. Performing a power bash will release the stored energy and deal 100/200/300 damage for 1/2/3 blocked hits. Armor type is changed to light armor.
+Auriel's Shield partially reflects blocked melee attacks back to the enemy and stores the remaining energy. Performing a power bash will release the stored energy and deal 100/200/300 damage for 1/2/3 blocked hits.
 Dawnguard Shield increases the amount of blockable damage by 30% and increases bash damage against undead by 50 points.
-Dawnguard Rune Shield increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 100 points per second. Armor type is changed to heavy armor.
+Dawnguard Rune Shield increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 100 points per second.
 Shield of Solitude increases magic resistance by 20% and increases the amount of blockable damage by 35%.
-Shield of Ysgramor increases magic resistance by 30%. Weight is increased to 20.
+Shield of Ysgramor increases magic resistance by 30%.
 Spellbreaker reduces maximum magicka of nearby mages by 50 points per disease contracted. Blocking creates a ward that protects against spells for up to 50 damage per disease contracted.
 
 Keening has no enchantment. Base damage is decreased to 13. Summon Shade of Arniel Gane can only be used if Keening is equipped. The shade is immune to all attacks.
@@ -143,7 +142,7 @@ Mace of Molag Bal absorbs 0.1 points of magicka and stamina for every soul trapp
 Bloodskal Blade releases an energy blast with power attacks that deals 30 points of magic damage. Doesn't use charges. Base damage is decreased to 17 and weight to 12.
 Ebony Blade absorbs 1 point of health for every friend killed by the blade (capped at 50 kills). Doesn't use charges. Attacks are silent and victims do not become hostile.
 
-Rueful Axe increases two-handed expertise by 80. Base damage is decreased to 22.
+Rueful Axe increases armor penetration by 20%. Base damage is decreased to 22.
 Spectral Battleaxe drains 100 points of health for 3 seconds. Doesn't use charges.
 Wuuthrad deals 50 points of shock damage. Additionally it deals 50 points of shock damage to Bretons and Orcs, 150 points of shock damage to Dark Elves, High Elves, Wood Elves and Falmer and 250 points of shock damage to giants. Doesn't use charges. Base damage is decreased to 23. Reduces shock resistance by 20% if wielded by a Breton or Orc and 40% if wielded by a Dark Elf, High Elf or Wood Elf.
 
@@ -217,10 +216,10 @@ Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
 The White Phial refills every 15 minutes (real time) or when going to sleep. It has one of the following effects:
  - Increases magic resistance by 25% for 300 seconds.
- - Increases armor rating by 100 for 300 seconds.
+ - Increases armor rating by 120 for 300 seconds.
  - Improves sneaking by 25% for 300 seconds.
  - Increases magicka by 100 for 300 seconds.
- - Increases one-handed, two-handed and marksman expertise by 50 for 300 seconds.
+ - Increases one-handed, two-handed and marksman damage by 25% for 300 seconds.
  - Completely restores health.
 
 Aetherium armor set is moved to the "hidden" room to the right of the Atherium Forge. Dwarven armor with powerful enchantments can be found in the former locations of the Aetherium armor pieces.
