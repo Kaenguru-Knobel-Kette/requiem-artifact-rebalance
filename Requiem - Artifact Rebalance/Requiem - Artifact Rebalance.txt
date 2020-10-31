@@ -211,6 +211,7 @@ Neloth's Experimental Spell increases health by 50. After swimming or being in t
 Sailor's Repose increases magic resistance by 5%.
 Shrine blessings of Azura, Boethiah, Mephala and Nocturnal only apply cleansing.
 Sinderion's Serendipity increases magnitude of mixed potions and poisons by 5%.
+The Gift of Gab is removed.
 Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
 The White Phial refills every 15 minutes (real time) or when going to sleep. It has one of the following effects:
