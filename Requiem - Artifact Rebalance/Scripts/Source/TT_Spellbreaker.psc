@@ -2,7 +2,7 @@ ScriptName TT_Spellbreaker Extends ActiveMagicEffect
 
 Spell Property Silence Auto
 Spell Property SilenceCloak Auto
-Spell Property Ward Auto
+Spell Property SpellAbsorb Auto
 
 TT_ReapplyNonPersistentChanges Property ReapplyNonPersistentChanges Auto
 
@@ -10,13 +10,13 @@ TT_ReapplyNonPersistentChanges Property ReapplyNonPersistentChanges Auto
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	RescaleEnchantment()
 	akTarget.AddSpell(SilenceCloak, False)
-	akTarget.AddSpell(Ward, False)
+	akTarget.AddSpell(SpellAbsorb, False)
 	ReapplyNonPersistentChanges.SpellbreakerScript = Self
 EndEvent
 
 Event OnEffectFinish(Actor akTarget, Actor akCaster)
 	akTarget.RemoveSpell(SilenceCloak)
-	akTarget.RemoveSpell(Ward)
+	akTarget.RemoveSpell(SpellAbsorb)
 	ReapplyNonPersistentChanges.SpellbreakerScript = None
 EndEvent
 
@@ -31,5 +31,5 @@ Function RescaleEnchantment()
 	Int DiseasesContracted = Game.QueryStat("Diseases Contracted")
 	Silence.SetNthEffectMagnitude(0, DiseasesContracted * 50)
 	SilenceCloak.SetNthEffectMagnitude(0, DiseasesContracted * 50)
-	Ward.SetNthEffectMagnitude(0, DiseasesContracted * 50)
+	SpellAbsorb.SetNthEffectMagnitude(0, DiseasesContracted * 5)
 EndFunction
