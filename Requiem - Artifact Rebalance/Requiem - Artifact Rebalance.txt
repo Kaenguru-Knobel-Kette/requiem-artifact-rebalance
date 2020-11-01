@@ -193,7 +193,33 @@ Wabbajack randomly causes one of the following effects:
  -  5% chance: The target is covered in cheese.
 Soul tomatoes can be crafted at a cooking pot when the Wabbajack is equipped.
 
-Oghma Infinium only grants 7 perk points.
+Oghma Infinium grants 7 perk points and has no further effects.
+Each Black Book allows to choose one of three possible effects. The choice can be changed or even rejected at any point by entering the Black Book again.
+Black Book: Epistolary Acumen
+ - Killing an enemy with Fire Breath spawns an allied fire wyrm from their corpse for 60 seconds.
+ - Unrelenting Force does more damage and using all three words may disintegrate enemies.
+ - Frost Breath encases foes in ice for 15 seconds.
+Black Book: The Winds of Change
+ - Followers deal 20% more damage and their spells are 20% stronger and last 20% longer.
+ - Benefits of food are 50% stronger.
+ - Attacks deal 10% more damage to people of the opposite sex. Spells are 10% stronger and last 10% longer when cast on people of the opposite sex.
+Black Book: The Hidden Twilight
+ - Restores 2 health per second.
+ - Restores 2 magicka per second.
+ - Restores 2 stamina per second.
+Black Book: Filament and Filigree
+ - Increases health by 30 points.
+ - Increases magicka by 30 points.
+ - Increases stamina by 30 points.
+Black Book: The Sallow Regent
+ - Increases damage with one-handed, two-handed and ranged weapons by 10%. Increases the amount of blockable damage by 10%. Increases armor rating by 50.
+ - Increases lockpicking skill by 21 and lockpicking expertise by 20. Pickpocketing is 10% easier. Improves sneaking by 10%. Increases sneak attack damage by 50% against all targets.
+ - Spells are 10% stronger and last 10% longer.
+Black Book: Untold Legends
+ - Summons a drum-shaped daedra to play for you, increasing speech skill by 20 for 15 seconds.
+ - Summons a Dremora butler for 15 seconds to carry excess items.
+ - Summons a Dremora merchant for 15 seconds.
+The fonts in Apocrypha permanently increases magicka or stamina regeneration by 1%.
 
 Agent of Dibella increases magnitude of enchantments placed on items by 5%.
 Agent of Mara increases magnitude of healing spells by 10%.
