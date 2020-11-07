@@ -41,10 +41,9 @@ Dwarven Helmet of Arkngthamz increases lockpicking skill by 18 and lockpicking e
 Dwarven Armor of Mzulft increases magic resistance by 20%.
 Dwarven Gauntlets of Raldbthar increase one-handed or two-handed damage by 30%.
 Dwarven Boots of Bthar-Zel increase stamina (Rank II) by 70.
-Galmar's Helmet increases health regeneration by 100%.
-Galmar's Armor increases health by 70 (Rank II).
-Galmar's Gauntlets increase two-handed damage by 30%.
-Galmar's Boots increase stamina by 70 (Rank II).
+General Tullius' Armor increases magic resistance by 20%.
+General Tullius' Gauntlets increase one-handed damage by 30%.
+General Tullius' Boots increase shock resistance by 50%.
 Guild Master's Hood increases haggling by 35%.
 Guild Master's Armor increases carrying weight by 75 points.
 Guild Master's Gloves increase lockpicking skill by 30 and lockpicking expertise by 40.
@@ -53,6 +52,10 @@ Harbinger Helmet increases magic resistance by 8% when worn by the Harbinger of 
 Harbinger Armor increases magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
 Harbinger Gauntlets increase magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
 Harbinger Boots increase magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
+Legate Rikke's Armor increases magic resistance by 20%.
+Legate Rikke's Gauntlets increase one-handed damage by 30%.
+Legate Rikke's Boots increase shock resistance by 50%.
+Legate Rikke's Shield increases magic resistance by 18%.
 Nightingale Armor set increases magic resistance by 20%, poison resistance by 100%, sneaking by 25%, magicka regeneration by 300% and one-handed, two-handed and ranged damage by 25%. Reduces illusion spell cost by 20% and reduces movement noise by 100%.
 Shrouded Cowl increases ranged damage by 10%.
 Shrouded Armor increases poison resistance by 50%.
@@ -62,9 +65,9 @@ Shrouded Hood improves sneaking by 25%.
 Shrouded Robes reduce illusion spell cost by 15% and increase magicka regeneration by 100%.
 Shrouded Hand Wraps increase armor penetration by 5%.
 Shrouded Shoes reduce movement noise by 50%.
-Ulfric's Armor increases magic resistance by 20%.
-Ulfric's Gauntlets increase one-handed damage by 30%.
-Ulfric's Boots increase shock resistance by 50%.
+Ulfric's Armor increases magic resistance by 20%. Armor type is changed to light armor.
+Ulfric's Gauntlets increase one-handed damage by 30%. Armor type is changed to light armor.
+Ulfric's Boots increase shock resistance by 50%. Armor type is changed to light armor.
 
 Dawnguard War Axe turns undead up to level 30 for 5 seconds. Also deals 30 additional damage against undead.
 Dawnguard Warhammer turns undead up to level 30 for 5 seconds. Also deals 30 additional damage against undead.
@@ -248,10 +251,23 @@ The White Phial refills every 15 minutes (real time) or when going to sleep. It 
  - Increases one-handed, two-handed and marksman damage by 25% for 300 seconds.
  - Completely restores health.
 
+Quaestor: Imperial Sword of Frost
+Praefect: Glass Sword of Scorching
+Tribune: Imperial Light Shield of Dwindling Magic
+Legate: Imperial Shield of Dwindling Magic and an enchanted Imperial Legate armor set.
+
+Ice-Veins: Steel Sword of Frost
+Bone-Breaker: Glass Sword of Scorching
+Snow-Hammer: Hide Shield of Dwindling Magic
+Stormblade: Steel Shield of Dwindling Magic and an enchanted Stormcloak Officer armor set.
+
 Aetherium armor set is moved to the "hidden" room to the right of the Atherium Forge. Dwarven armor with powerful enchantments can be found in the former locations of the Aetherium armor pieces.
 Blades Boots of Fire Abatement, Blades Boots of Frost Abatement, Blades Armor of the Noble Knight, Blades Gauntlets of Extreme Wielding, Blades Helmet of Extreme Archery and Blades Shield of Magic Abatement can be found in Sky Haven Temple. Blades recruits will also wear enchanted armor.
 Gunmar sells Dawnguard Armor of Extreme Health, Dawnguard Boots of Frost Abatement, Dawnguard Gauntlets of Extreme Archery, Dawnguard Gauntlets of Extreme Wielding, Dawnguard Gauntlets of Extreme Sure Grip and Dawnguard Helmet of Extreme Restoration. Important Dawnguard members will also wear enchanted armor.
 Harbinger armor set can be found in Kodlak's end table during Glory of the Dead.
-Ulfric Stormcloak wears a Ring of Magic Abatement.
+Ulfric Stormcloak wears a Necklace of Magic Suppression and a Ring of Eminent Wielding.
+General Tullius wears a Necklace of Magic Suppression and a Ring of Eminent Wielding.
+Legate Rikke wears a Necklace of Eminent Blocking and a Ring of Eminent Sure Grip.
+Imperial Legates wear a full set of Imperial Legate armor.
 Harkon wears a Necklace of Nullification and a Ring of Peerless Destruction.
 Velehk Sain's Locker contains a random set of enchanted glass armor.
