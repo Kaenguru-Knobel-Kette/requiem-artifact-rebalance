@@ -1,0 +1,4 @@
+- Navida1 for [Improved Closefaced Helmets](https://www.nexusmods.com/skyrim/mods/15927)
+- Rahman530 for [Lore Friendly Armor Pack](https://www.nexusmods.com/skyrim/mods/6684)
+- The Requiem Dungeon Masters for [Requiem - The Roleplaying Overhaul](https://www.nexusmods.com/skyrim/mods/19281)
+- PrivateEye for [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrim/mods/81118)
