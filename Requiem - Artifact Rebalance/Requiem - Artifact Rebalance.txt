@@ -94,7 +94,7 @@ Aetherium Crown restores 8 magicka per second.
 Ancient Helmet of the Unburned increases fire resistance by 100%.
 Diadem of the Savant reduces spell cost by 16%.
 Helm of Yngol increases frost resistance by 40%.
-Masque of Clavicus Vile improves prices by 30% and intimidation checks in dialogue will almost always succeed.
+Masque of Clavicus Vile improves prices by 30% and persuasion checks in dialogue will almost always succeed.
 
 Movarth's Boots grant waterwalking.
 Predator's Grace reduce movement noise by 100%.
