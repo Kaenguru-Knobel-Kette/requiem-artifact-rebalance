@@ -108,7 +108,7 @@ Saarthal Amulet reduces spell cost by 12%.
 Savos Aren's Amulet increases magic resistance by 20%.
 
 Ring of Hircine increases health by 75 points (Rank II) and grants unlimited transformations to Werewolves.
-Ring of Namira allows feeding on corpses which grants the blessing of Namira. Blessing of Namira increases health, magicka and stamina by 50 for 7200 seconds as long as Namira's Ring is worn.
+Ring of Namira reflects melee damage back to the attacker. Feeding on corpses grants the blessing of Namira which increases magic resistance by 20% for 7200 seconds as long as the Ring of Namira is worn.
 
 Blocking with the Aetherium Shield renders the carrier ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
 Auriel's Shield partially reflects blocked melee attacks back to the enemy and stores the remaining energy. Performing a power bash will release the stored energy and deal 100/200/300 damage for 1/2/3 blocked hits.
