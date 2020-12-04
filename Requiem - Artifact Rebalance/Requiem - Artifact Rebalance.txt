@@ -37,7 +37,7 @@ Deathbrand Helmet grants waterbreathing and increases carry weight by 100. Damag
 Deathbrand Armor increases magic resistance by 20% and increases health by 75 (Rank II). Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Deathbrand Gauntlets increase one-handed damage by 30% and increase armor rating by 100. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Deathbrand Boots increase stamina by 75 (Rank II) and stamina regeneration by 100%. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
-Dwarven Helmet of Arkngthamz increases lockpicking skill by 18 and lockpicking expertise by 20 points.
+Dwarven Helmet of Arkngthamz increases ranged damage by 30%.
 Dwarven Armor of Mzulft increases magic resistance by 20%.
 Dwarven Gauntlets of Raldbthar increase one-handed or two-handed damage by 30%.
 Dwarven Boots of Bthar-Zel increase stamina (Rank II) by 70.
