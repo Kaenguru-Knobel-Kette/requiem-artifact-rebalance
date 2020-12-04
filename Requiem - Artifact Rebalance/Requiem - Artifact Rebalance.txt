@@ -19,10 +19,10 @@ Aetherium Helmet reduces spell cost by 20%.
 Aetherium Armor reduces spell cost by 20%. Inherits additional damage resistances from Dwarven Armor.
 Aetherium Gauntlets increase magicka (Rank II) by 75 points.
 Aetherium Boots increase frost resistance by 50%.
-Ahzidal's Helmet grants the ability to see in the dark.
+Ahzidal's Helmet increases summon limit by 1.
 Ahzidal's Armor paralyzes enemies who strike its wearer with a melee attack. 
 Ahzidal's Gauntlets absorb 75% of the magicka from incoming spells that are blocked by a ward.
-Ahzidal's Boots double duration of summon spells and increase range tenfold.
+Ahzidal's Boots increase effective mass by 10.
 Ahzidal's Amulet reduces spell cost by 40% when wearing the full set of Ahzidal's armor.
 Ahzidal's Ring grants Summon Skeletal Blizzard. It summons a skeletal suicide attacker that explodes into a blizzard when it attacks or is hit, causing 200 points of damage.
 Ancient Shrouded Cowl increases ranged damage by 30%.
@@ -81,7 +81,7 @@ Arch-Mage's Gloves increase magicka by 150 (Rank II).
 Arch-Mage's Boots increase fire, frost and shock resistance by 30%.
 Miraak's Robes reduce spell cost by 25%, increase magicka regeneration by 300% and increase poison resistance by 100%. When hit, a tentacle explosion deals 400 points of damage to nearby enemies (3 seconds cooldown).
 Mirakk's Gloves increase magicka by 200 (Rank II).
-Miraak's Boots add a chance of 50% to absorb the magicka from incoming spells and increase effective mass by 2.
+Miraak's Boots add a chance of 50% to absorb the magicka from incoming spells.
 The Greybeard's Robes decrease shouting cooldown by 10%.
 The Greybeard's Hood decreases shouting cooldown by 10%.
 The Greybeard's Boots decrease shouting cooldown by 10%.
