@@ -16,4 +16,5 @@ EndEvent
 Function RescaleEnchantment()
 	Int DiseasesContracted = Game.QueryStat("Diseases Contracted")
 	SpellAbsorb.SetNthEffectMagnitude(0, DiseasesContracted * 5)
+	SpellAbsorb.SetNthEffectMagnitude(1, DiseasesContracted * 5)
 EndFunction
