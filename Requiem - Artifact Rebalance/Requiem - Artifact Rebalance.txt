@@ -105,7 +105,7 @@ Predator's Grace reduce movement noise by 100%.
 
 Gauldur Amulet Fragments increase magicka by 30.
 Gauldur Amulet increases magicka by 80% of the wearer's base magicka (Rank II).
-Kyne's Token grants the blessing of Kyne to Nords who completed Kyne's Sacred Trials. They must not kill Paarthurnax, equip a dragon priest mask or Daedric artifact, have the blessing of one of the Nine Divines, join the Dark Brotherhood or Thieves Guild and be a vampire or werewolf.
+Kyne's Token grants the Blessing of Kyne to Nords who completed Kyne's Sacred Trials. They must not kill Paarthurnax, equip a dragon priest mask, have the blessing of another divine, join the Dark Brotherhood or Thieves Guild, or be a vampire or werewolf.
 Locket of Saint Jiub increases carry weight by 500 points.
 Necromancer's Amulet reduces conjuration spell cost by 25%. Increases health by 50 (Rank II) if the wearer has at least 150 base health, else damages health regeneration by 75%. Increases magicka by 50 (Rank II) if the wearer has at least 150 base magicka, else damages magicka regeneration by 75%. Increases stamina by 50 (Rank II) if the wearer has at least 150 base stamina, else damages stamina regeneration by 75%. Black soul gems can be crafted at a smelter with the Soul Gem Mastery perk if the Necromancer's Amulet is equipped.
 Saarthal Amulet reduces spell cost by 12%.
@@ -142,9 +142,9 @@ Soulrender makes the target vulnerable to soul gems for 1 seconds. When attackin
 Spectral Sword drains 100 points of magicka for 3 seconds. Doesn't use charges.
 
 Dawnguard Rune War Axe deals 1 point of sun damage per undead killed with the war axe (capped at 100 undead killed). Doesn't use charges.
-Kyne's War Axe deals 10 points of shock damage when the blessing of Kyne is active. Deals another 15 points of shock damage for each of Kyne's greater blessings. Doesn't use charges.
 Okin deals 30 frost damage. Wielding Eduj and Okin together increases attack speed by 15%.
 Poacher's Axe deals 10 points damage to animals.
+Stormbringer deals 10 points of shock damage for each of Kyne's blessings. Doesn't use charges.
 
 Mace of Molag Bal absorbs 0.1 points of magicka and stamina for every soul trapped and makes the target vulnerable to soul gems for 1 second for every 100 souls trapped. Doesn't use charges. Base damage is decreased to 15.
 
@@ -237,9 +237,12 @@ Blessing of the Blades (fka Dragonslayer's Blessing) increases physical damage d
 Blessing of Kyne makes animals friends. Additionally:
  - Completing Climb the Steps increases stamina by 50 (Rank II).
  - Completing The Blessings of Nature by returning a sapling increases health by 50 (Rank II).
- - Completing Glory of the Dead up to stage 30 increases one-handed, two-handed and ranged damage by 30%.
+ - Completing Glory of the Dead up to stage 30 increases one-handed, two-handed and ranged damage by 20%.
+ - Joining the Stormcloaks and earning the rank Ice-Veins/Bone-Breaker/Snow-Hammer/Stormblade increases one-handed, two-handed and ranged damage by 5/10/15/20%.
  - Completing A Blade in the Dark reduces shout cooldown by 10%.
+ - Completing Throat of the World reduces shout cooldown by 10%.
  - Completing Alduin's Bane reduces shout cooldown by 10%.
+ - Completing Sovngarde reduces shout cooldown by 10%.
  - Completing Dragonslayer increases health, magicka and stamina by 100.
 Neloth's Experimental Spell increases health by 50. After swimming or being in the rain it permanently lowers health by 50 instead.
 Prowler's Profit increases movement speed by 10%. The previous effect, more gems in loot, has been merged into the Treasure Hunter perk.
