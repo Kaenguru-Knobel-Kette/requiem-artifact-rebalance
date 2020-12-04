@@ -252,6 +252,8 @@ Sinderion's Serendipity increases magnitude of mixed potions and poisons by 5%.
 The Gift of Gab is removed.
 Voice of the Sky reduces shout cooldown by 10% for 86400 seconds.
 
+Kyne's Peace restores 50/100/150 health, magicka and stamina and doesn't affect animals. Requires the Blessing of Kyne.
+
 The White Phial refills every 15 minutes (real time) or when going to sleep. It has one of the following effects:
  - Increases magic resistance by 25% for 300 seconds.
  - Increases armor rating by 120 for 300 seconds.
