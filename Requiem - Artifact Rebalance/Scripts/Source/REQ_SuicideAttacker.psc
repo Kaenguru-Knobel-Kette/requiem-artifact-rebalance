@@ -1,7 +1,7 @@
-ScriptName REQ_AhzidalsRing Extends Actor
+ScriptName REQ_SuicideAttacker Extends Actor
 {Actor explodes when they attack in melee or are hit.}
 
-Spell Property KamikazeSpell Auto
+Spell Property SuicideSpell Auto
 
 Bool Exploded = False
 
@@ -26,7 +26,7 @@ EndEvent
 Function TriggerExplosion()
 	If !Exploded
 		Exploded = True
-		KamikazeSpell.Cast(Self, Self)
+		SuicideSpell.Cast(Self, Self)
 		Kill()
 	EndIf
 EndFunction
