@@ -15,5 +15,5 @@ EndEvent
 
 Function RescaleEnchantment()
 	Float BaseMagicka = GetTargetActor().GetBaseActorValue("Magicka")
-	FortifyMagicka.SetNthEffectMagnitude(0, BaseMagicka * 0.5)
+	FortifyMagicka.SetNthEffectMagnitude(0, BaseMagicka * 0.8)
 EndFunction
