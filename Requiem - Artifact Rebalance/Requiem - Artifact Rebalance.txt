@@ -111,7 +111,7 @@ Ring of Hircine increases health by 75 points (Rank II) and grants unlimited tra
 Ring of Namira reflects melee damage back to the attacker. Feeding on corpses grants the blessing of Namira which increases magic resistance by 20% for 7200 seconds as long as the Ring of Namira is worn.
 
 Blocking with the Aetherium Shield renders the carrier ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
-Auriel's Shield partially reflects blocked melee attacks back to the enemy and stores the remaining energy. Performing a power bash will release the stored energy and deal 100/200/300 damage for 1/2/3 blocked hits.
+Auriel's Shield increases the amount of blockable damage by 100% and increases magic resistance by 50%. Stores the energy of blocked attacks. Performing a power bash will release the energy, restoring 100/200/300 health, stamina and magicka for 1/2/3 blocked hits.
 Dawnguard Shield increases the amount of blockable damage by 30% and increases bash damage against undead by 50 points.
 Dawnguard Rune Shield increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 100 points per second.
 Shield of Solitude increases magic resistance by 20% and increases the amount of blockable damage by 35%.
