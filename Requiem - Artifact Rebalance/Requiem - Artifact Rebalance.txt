@@ -116,7 +116,7 @@ Dawnguard Shield increases the amount of blockable damage by 30% and increases b
 Dawnguard Rune Shield increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 100 points per second.
 Shield of Solitude increases magic resistance by 20% and increases the amount of blockable damage by 35%.
 Shield of Ysgramor increases magic resistance by 30%.
-Spellbreaker reduces maximum magicka of nearby mages by 50 points per disease contracted. Blocking increases chance to absorb spells by 5% per disease contracted.
+Spellbreaker increases chance to absorb spells by 5% per disease contracted while blocking.
 
 Keening has no enchantment. Base damage is decreased to 13. Summon Shade of Arniel Gane can only be used if Keening is equipped. The shade is immune to all attacks.
 Mehrunes' Razor deals 10 points of damage for killing at least 100 people, animals, creatures, undead, daedra and dwarven constructs (each enemy type counts separately). Doesn't use charges. Base damage is decreased to 10.

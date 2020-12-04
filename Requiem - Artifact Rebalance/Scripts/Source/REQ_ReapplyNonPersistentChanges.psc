@@ -6,7 +6,6 @@ REQ_DawnguardRuneWarhammer Property DawnguardRuneWarhammerScript Auto
 REQ_EbonyBlade Property EbonyBladeScript Auto
 REQ_MaceOfMolagBal Property MaceOfMolagBalScript Auto
 REQ_MehrunesRazor Property MehrunesRazorScript Auto
-REQ_Spellbreaker Property SpellbreakerScript Auto
 REQ_Volendrung Property VolendrungScript Auto
 
 
@@ -28,9 +27,6 @@ Event OnPlayerLoadGame()
 	EndIf
 	If MehrunesRazorScript != None
 		MehrunesRazorScript.ReapplyNonPersistentChanges()
-	EndIf
-	If SpellbreakerScript != None
-		SpellbreakerScript.ReapplyNonPersistentChanges()
 	EndIf
 	If VolendrungScript != None
 		VolendrungScript.ReapplyNonPersistentChanges()
