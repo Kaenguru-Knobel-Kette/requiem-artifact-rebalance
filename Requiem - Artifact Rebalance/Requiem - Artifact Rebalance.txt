@@ -48,10 +48,10 @@ Guild Master's Hood increases haggling by 35%.
 Guild Master's Armor increases carrying weight by 75 points.
 Guild Master's Gloves increase lockpicking skill by 30 and lockpicking expertise by 40.
 Guild Master's Boots make pickpocketing 100% easier.
-Harbinger Helmet increases magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
-Harbinger Armor increases magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
-Harbinger Gauntlets increase magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
-Harbinger Boots increase magic resistance by 8% when worn by the Harbinger of the Companions and no alteration, conjuration, destruction, illusion, restoration, sneak or pickpocket perks are taken.
+Harbinger Helmet increases magic resistance by 15% when worn by the Harbinger of the Companions and no alchemy, alteration, conjuration, destruction, enchanting, illusion, lockpicking, pickpocket, restoration and sneak perks are taken.
+Harbinger Armor increases magic resistance by 15% when worn by the Harbinger of the Companions and no alchemy, alteration, conjuration, destruction, enchanting, illusion, lockpicking, pickpocket, restoration and sneak perks are taken.
+Harbinger Gauntlets increase magic resistance by 15% when worn by the Harbinger of the Companions and no alchemy, alteration, conjuration, destruction, enchanting, illusion, lockpicking, pickpocket, restoration and sneak perks are taken.
+Harbinger Boots increase magic resistance by 15% when worn by the Harbinger of the Companions and no alchemy, alteration, conjuration, destruction, enchanting, illusion, lockpicking, pickpocket, restoration and sneak perks are taken.
 Legate Rikke's Armor increases magic resistance by 20%.
 Legate Rikke's Gauntlets increase one-handed damage by 30%.
 Legate Rikke's Boots increase shock resistance by 50%.
