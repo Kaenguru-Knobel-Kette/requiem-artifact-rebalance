@@ -128,6 +128,7 @@ Bolar's Oathblade deals 30 damage to Thalmor and makes them flee combat for 30 s
 Chillrend deals 30 points of frost damage and paralyzes the target for 2 seconds.
 Dawnbreaker deals 0.2 points of sun damage to undead for every undead killed and turns undead up to level [undead killed / 10]. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 points of sun damage. Doesn't use charges. Base damage is decreased to 9. Vampires can touch Dawnbreaker and Meridia's Beacon without punishment.
 Dragonbane deals 150 damage to dragons. Base damage is decreased to 12.
+Eduj deals 30 frost damage. Wielding Eduj and Okin together increases attack speed by 15%.
 Ghostblade completely ignores armor rating. This doesn't include inherent damage reductions against slashing damage.
 Harkon's Sword absorbs 50 points of health, stamina and magicka and makes the target vulnerable to soul gems for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
 Miraak's Sword paralyzes targets for 10 seconds. Additionally deals 10 damage per second for 10 seconds. The sword has increased range to match its animation. Doesn't use charges.
@@ -138,6 +139,7 @@ Spectral Sword drains 100 points of magicka for 3 seconds. Doesn't use charges.
 
 Dawnguard Rune War Axe deals 1 point of sun damage per undead killed with the war axe (capped at 100 undead killed). Doesn't use charges.
 Kyne's War Axe deals 10 points of shock damage when the blessing of Kyne is active. Deals another 15 points of shock damage for each of Kyne's greater blessings. Doesn't use charges.
+Okin deals 30 frost damage. Wielding Eduj and Okin together increases attack speed by 15%.
 Poacher's Axe deals 10 points damage to animals.
 
 Mace of Molag Bal absorbs 0.1 points of magicka and stamina for every soul trapped and makes the target vulnerable to soul gems for 1 second for every 100 souls trapped. Doesn't use charges. Base damage is decreased to 15.
