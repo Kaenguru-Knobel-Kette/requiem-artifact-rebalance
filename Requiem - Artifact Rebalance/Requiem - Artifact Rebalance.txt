@@ -29,6 +29,10 @@ Ancient Shrouded Cowl increases ranged damage by 30%.
 Ancient Shrouded Armor increases poison resistance by 100%. Increases magic resistance by 20% when wearing the full set of ancient shrouded armor and "Locate the Assassin of Old" is completed.
 Ancient Shrouded Gloves increase one-handed damage by 30%.
 Ancient Shrouded Boots increase stamina (Rank II) by 70.
+Blackguard's Hood increases haggling by 22%.
+Blackguard's Armor increases carry weight by 35.
+Blackguard's Gauntlets increase lockpicking skill by 15 and lockpicking expertise by 20.
+Blackguard's Boots make pickpocketing 35% easier.
 Cicero's Hat improves sneaking by 40%.
 Cicero's Clothes reduce illusion spell cost by 20% and increase magicka regeneration by 250%.
 Cicero's Gloves increase armor penetration by 10%.
