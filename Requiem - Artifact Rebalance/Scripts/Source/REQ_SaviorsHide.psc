@@ -1,5 +1,6 @@
 ScriptName REQ_SaviorsHide Extends ActiveMagicEffect
 
+ActorBase Property EarthMother Auto
 ActorBase Property GiantSlaughterfish Auto
 ActorBase Property GiganticMudcrab Auto
 ActorBase Property Gorak Auto
@@ -28,7 +29,7 @@ EndEvent
 
 
 Function RescaleEnchantment()
-	Int GreatBeastsSlain = 0
+	Int GreatBeastsSlain = 2
 	If GiantSlaughterfish.GetDeadCount() >= 1
 		GreatBeastsSlain += 1
 	EndIf
@@ -47,10 +48,13 @@ Function RescaleEnchantment()
 	If Snow.GetDeadCount() >= 1
 		GreatBeastsSlain += 1
 	EndIf
+	If EarthMother.GetDeadCount() >= 1
+		GreatBeastsSlain += 1
+	EndIf
 	If Ulik.GetDeadCount() >= 1
 		GreatBeastsSlain += 1
 	EndIf
-	ResistMagic.SetNthEffectMagnitude(0, 10 + GreatBeastsSlain * 3)
-	ResistPoison.SetNthEffectMagnitude(0, 30 + GreatBeastsSlain * 10)
-	ResistDisease.SetNthEffectMagnitude(0, 30 + GreatBeastsSlain * 10)
+	ResistMagic.SetNthEffectMagnitude(0, GreatBeastsSlain * 3)
+	ResistPoison.SetNthEffectMagnitude(0, GreatBeastsSlain * 10)
+	ResistDisease.SetNthEffectMagnitude(0, GreatBeastsSlain * 10)
 EndFunction

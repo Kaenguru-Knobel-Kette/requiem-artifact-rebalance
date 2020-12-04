@@ -92,7 +92,7 @@ The Greybeard's Boots decrease shouting cooldown by 10%.
 
 Ebony Mail increases magic resistance by 0.25% and fire resistance by 0.75% for every murder.
 Harkon's and Valerica's armor reduces spell cost by 20% and increases magicka regeneration by 300%.
-Savior's Hide increases magic resistance by 10%, poison and disease resistance by 30%. Whenever a great beast (Giant Slaughterfish, Gigantic Mudcrab, Gorak the Trollslayer, Kru'ul, Ragnok, Snow, Ulik) is slain for the first time, magic resistance is increased by 3% and poison and disease resistance by 10%.
+Savior's Hide increases magic resistance by 6%, poison and disease resistance by 20%. Whenever a great beast (Earth Mother, Giant Slaughterfish, Gigantic Mudcrab, Gorak the Trollslayer, Kru'ul, Ragnok, Snow, Ulik) is slain for the first time, magic resistance is increased by 3% and poison and disease resistance by 10%.
 
 Aetherium Crown restores 8 magicka per second.
 Ancient Helmet of the Unburned increases fire resistance by 100%.
