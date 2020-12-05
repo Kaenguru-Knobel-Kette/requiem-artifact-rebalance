@@ -133,6 +133,7 @@ Chillrend deals 30 points of frost damage and paralyzes the target for 2 seconds
 Dawnbreaker deals 0.2 points of sun damage to undead for every undead killed and turns undead up to level [undead killed / 10]. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 points of sun damage. Doesn't use charges. Base damage is decreased to 9. Vampires can touch Dawnbreaker and Meridia's Beacon without punishment.
 Dragonbane deals 150 damage to dragons. Base damage is decreased to 12.
 Eduj deals 30 frost damage. Wielding Eduj and Okin together increases attack speed by 15%.
+Gauldur Blackblade absorbs 30 points of health.
 Ghostblade completely ignores armor rating. This doesn't include inherent damage reductions against slashing damage.
 Harkon's Sword absorbs 50 points of health, stamina and magicka and makes the target vulnerable to soul gems for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
 Miraak's Sword paralyzes targets for 10 seconds. Additionally deals 10 damage per second for 10 seconds. The sword has increased range to match its animation. Doesn't use charges.
@@ -167,6 +168,7 @@ Bow of the Hawk deals 10 points of shock damage for each of Kyne's blessings. Do
 Dravin's Bow does 10 points of stamina damage.
 Firiniel's End deals 20 points of shock damage and turns targets into an ash pile upon death. Disenchanting yields the normal shock enchantment. Doesn't use charges.
 Froki's Bow deals 20 damage to animals.
+Gauldur Blackbow absorbs 30 points of stamina.
 Jon's Crossbow deals 1000 damage to anything that carries fruits.
 Nightingale Bow deals 15 points of fire, frost and shock damage.
 Spectral Bow drains 100 points of stamina for 3 seconds. Doesn't use charges.
