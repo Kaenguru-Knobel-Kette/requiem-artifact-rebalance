@@ -2,4 +2,5 @@
 - Rahman530 for [Lore Friendly Armor Pack](https://www.nexusmods.com/skyrim/mods/6684)
 - The Requiem Dungeon Masters for [Requiem - The Roleplaying Overhaul](https://www.nexusmods.com/skyrim/mods/19281)
 - PrivateEye for [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrim/mods/81118)
+- Artisanix for [Unique Bows Collection](https://www.nexusmods.com/skyrim/mods/32405)
 - Trainwiz for [Vastly More Unique Visage of Mzund](https://www.nexusmods.com/skyrim/mods/63016)
