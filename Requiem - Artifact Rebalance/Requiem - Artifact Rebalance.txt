@@ -100,6 +100,7 @@ Ancient Helmet of the Unburned increases fire resistance by 100%.
 Diadem of the Savant reduces spell cost by 16%.
 Helm of Yngol increases frost resistance by 40%.
 Masque of Clavicus Vile improves prices by 30% and persuasion checks in dialogue will almost always succeed.
+Visage of Mzund grants Breath of Nchuak. Breath of Nchuak drains 25 stamina per second and deals 150 fire damage per second to targets in range for 3 seconds.
 
 Movarth's Boots grant waterwalking.
 Predator's Grace reduce movement noise by 100%.
