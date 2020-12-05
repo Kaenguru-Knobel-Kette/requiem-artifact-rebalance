@@ -146,6 +146,7 @@ Okin deals 30 frost damage. Wielding Eduj and Okin together increases attack spe
 Poacher's Axe deals 20 damage to animals.
 Stormbringer deals 10 points of shock damage for each of Kyne's blessings. Doesn't use charges.
 
+Horksbane staggers horkers and deals 8 points of damage for 15 seconds.
 Mace of Molag Bal absorbs 0.1 points of magicka and stamina for every soul trapped and makes the target vulnerable to soul gems for 1 second for every 100 souls trapped. Doesn't use charges. Base damage is decreased to 15.
 
 Bloodskal Blade releases an energy blast with power attacks that deals 30 points of magic damage. Doesn't use charges. Base damage is decreased to 17 and weight to 12.
