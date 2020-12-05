@@ -75,6 +75,7 @@ Ulfric's Boots increase shock resistance by 50%. Armor type is changed to light 
 
 Dawnguard War Axe turns undead up to level 30 for 5 seconds. Also deals 30 additional damage against undead.
 Dawnguard Warhammer turns undead up to level 30 for 5 seconds. Also deals 30 additional damage against undead.
+Dawnguard Shield increases the amount of blockable damage by 30% and increases bash damage against undead by 50 points.
 
 Ancano's Robes reduce destruction spell cost by 20% and increase magicka regeneration by 300%.
 Ancano's Gloves increase magicka by 70 points (Rank II).
@@ -115,9 +116,8 @@ Ring of Hircine increases health by 75 points (Rank II) and grants unlimited tra
 Ring of Namira reflects melee damage back to the attacker. Feeding on corpses grants the blessing of Namira which increases magic resistance by 20% for 7200 seconds as long as the Ring of Namira is worn.
 
 Blocking with the Aetherium Shield renders the carrier ethereal. Enemies struck by the shield become ethereal for 15 seconds, making them unable to attack or be attacked. Blocking costs 6 additional points of stamina.
+Ancient Dawnguard Shield increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 100 points per second.
 Auriel's Shield increases the amount of blockable damage by 100% and increases magic resistance by 50%. Stores the energy of blocked attacks. Performing a power bash will release the energy, restoring 100/200/300 health, stamina and magicka for 1/2/3 blocked hits.
-Dawnguard Shield increases the amount of blockable damage by 30% and increases bash damage against undead by 50 points.
-Dawnguard Rune Shield increases bash damage against undead by 50 points. Blocking creates a beacon of sunlight that damages nearby undead by 100 points per second.
 Shield of Solitude increases magic resistance by 20% and increases the amount of blockable damage by 35%.
 Shield of Ysgramor increases magic resistance by 30%.
 Spellbreaker increases chance to absorb spells by 5% per disease contracted while blocking. Reduces disease resistance by 100%.
@@ -142,7 +142,7 @@ Red Eagle's Bane deals 10 points of fire damage and absorbs 10 points of health 
 Soulrender makes the target vulnerable to soul gems for 1 seconds. When attacking with two weapons, damage taken is halved. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Spectral Sword drains 100 points of magicka for 3 seconds. Doesn't use charges.
 
-Dawnguard Rune War Axe deals 1 point of sun damage per undead killed with the war axe (capped at 100 undead killed). Doesn't use charges.
+Ancient Dawnguard War Axe deals 1 point of sun damage per undead killed with the war axe (capped at 100 undead killed). Doesn't use charges.
 Okin deals 30 frost damage. Wielding Eduj and Okin together increases attack speed by 15%.
 Poacher's Axe deals 20 damage to animals.
 Stormbringer deals 10 points of shock damage for each of Kyne's blessings. Doesn't use charges.
@@ -160,7 +160,7 @@ Woodsman's Friend deals 20 damage to animals.
 Wuuthrad deals 50 points of shock damage. Additionally it deals 50 points of shock damage to Bretons and Orcs, 150 points of shock damage to Dark Elves, High Elves, Wood Elves and Falmer and 250 points of shock damage to giants. Doesn't use charges. Base damage is decreased to 23. Reduces shock resistance by 20% if wielded by a Breton or Orc and 40% if wielded by a Dark Elf, High Elf or Wood Elf.
 
 Aegisbane deals 20 points of frost damage.
-Dawnguard Rune Warhammer deals 1 point of sun damage per undead killed with the warhammer (capped at 100 undead killed). Doesn't use charges.
+Ancient Dawnguard Warhammer deals 1 point of sun damage per undead killed with the warhammer (capped at 100 undead killed). Doesn't use charges.
 Longhammer has 20% increased attack speed.
 Trollsbane deals 5 points of fire damage for 5 seconds to trolls.
 Volendrung absorbs 0.25 points of stamina for every every point of base health above 100 and reduces the target's damage and the amount of blockable damage for 10 seconds by 0.25% for every point of base health above 100. Attack speed is increased by 0.05% for every every point of base health above 100. Doesn't use charges. Base damage is decreased to 25.
