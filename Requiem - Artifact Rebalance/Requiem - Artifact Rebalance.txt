@@ -154,6 +154,7 @@ Mace of Molag Bal absorbs 0.1 points of magicka and stamina for every soul trapp
 Bloodskal Blade releases an energy blast with power attacks that deals 30 points of magic damage. Doesn't use charges. Base damage is decreased to 17 and weight to 12.
 Ebony Blade absorbs 1 point of health for every friend killed by the blade (capped at 50 kills). Doesn't use charges. Attacks are silent and victims do not become hostile.
 Grimsever deals 30 points of frost damage.
+Stormfang deals 30 points of shock damage. Attack speed is increased by 5%.
 
 Rueful Axe increases armor penetration by 20%. Base damage is decreased to 22.
 Spectral Battleaxe drains 100 points of health for 3 seconds. Doesn't use charges.
