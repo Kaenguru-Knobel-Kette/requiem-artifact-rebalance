@@ -129,7 +129,7 @@ Valdr's Lucky Dagger is enchanted with paralysis.
 Bloodscythe absorbs 25 points of health. When attacking with two weapons, damage taken is halved. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Bolar's Oathblade deals 30 damage to Thalmor and makes them flee combat for 30 seconds. Doesn't use charges.
 Chillrend deals 30 points of frost damage and paralyzes the target for 2 seconds.
-Dawnbreaker deals 0.2 points of sun damage to undead for every undead killed and turns undead up to level [undead killed / 10]. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 points of sun damage. Doesn't use charges. Vampires can touch Dawnbreaker and Meridia's Beacon without punishment.
+Dawnbreaker deals 0.2 points of sun damage to undead for every undead killed and turns undead up to level [undead killed / 10]. Killing an undead causes an explosion that turns nearby undead up to level 50 and deals 300 points of sun damage. Doesn't use charges. Vampires can touch Dawnbreaker without punishment.
 Dragonbane deals 150 damage to dragons.
 Eduj deals 30 frost damage. Wielding Eduj and Okin together increases attack speed by 15%.
 Gauldur Blackblade absorbs 30 points of health.
