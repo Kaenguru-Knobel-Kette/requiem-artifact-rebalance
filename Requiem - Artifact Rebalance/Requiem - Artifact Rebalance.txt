@@ -134,7 +134,7 @@ Dragonbane deals 150 damage to dragons.
 Eduj deals 30 frost damage. Wielding Eduj and Okin together increases attack speed by 15%.
 Gauldur Blackblade absorbs 30 points of health.
 Ghostblade completely ignores armor rating. This doesn't include inherent damage reductions against slashing damage. Doesn't use charges.
-Harkon's Sword absorbs 50 points of health, stamina and magicka and makes the target vulnerable to soul gems for 5 seconds. Doesn't use charges, but only works if wielded by a vampire.
+Harkon's Katana absorbs 50 points of health, stamina and magicka and makes the target vulnerable to soul gems for 5 seconds if wielded by a vampire. Doesn't use charges.
 Miraak's Sword paralyzes targets for 10 seconds. Additionally deals 10 damage per second for 10 seconds. The sword has increased range to match its animation. Doesn't use charges.
 Nightingale Blade absorbs 15 points of health, magicka and stamina. Doesn't use charges.
 Red Eagle's Bane deals 10 points of fire damage and absorbs 10 points of health and stamina.
