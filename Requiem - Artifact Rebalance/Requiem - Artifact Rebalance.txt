@@ -292,5 +292,13 @@ General Tullius wears a Necklace of Magic Suppression and a Ring of Eminent Wiel
 Legate Rikke wears a Necklace of Eminent Blocking and a Ring of Eminent Sure Grip.
 Imperial Legates wear a full set of Imperial Legate armor.
 Harkon wears a Necklace of Nullification and a Ring of Peerless Destruction.
+Amren carries an iron sword.
 
+Amren's Family Sword is a steel scimitar.
+Longhammer is an iron warhammer.
+Queen Freydis' Sword is an iron sword.
+Staff of Jyrik Gauldurson is a destruction staff.
+Stormfang is a Nordic greatsword.
+
+Sahloknir is always a fire dragon.
 Spriggan Earth Mother is a unique boss encounter in Clearspring Cave.
