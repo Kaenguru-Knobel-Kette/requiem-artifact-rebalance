@@ -140,6 +140,7 @@ Nightingale Blade absorbs 15 points of health, magicka and stamina. Doesn't use 
 Red Eagle's Bane deals 10 points of fire damage and absorbs 10 points of health and stamina.
 Soulrender makes the target vulnerable to soul gems for 1 seconds. When attacking with two weapons, damage taken is halved. Damages health by 20 points per second if Haknir Death-Brand is not yet defeated or if worn by a NPC.
 Spectral Sword drains 100 points of magicka for 3 seconds. Doesn't use charges.
+The Pale Blade deals 30 frost damage and fears people and creatures up to level 30.
 
 Ancient Dawnguard War Axe deals 1 point of sun damage per undead killed with the war axe (capped at 100 undead killed). Doesn't use charges.
 Okin deals 30 frost damage. Wielding Eduj and Okin together increases attack speed by 15%.
