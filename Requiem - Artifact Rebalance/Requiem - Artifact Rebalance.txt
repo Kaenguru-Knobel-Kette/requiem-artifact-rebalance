@@ -169,7 +169,7 @@ Volendrung absorbs 0.25 points of stamina for every every point of base health a
 Auriel's Bow deals 60 points of sun damage and additional 90 points to undead. Doesn't use charges.
 Bow of the Hawk deals 10 points of shock damage for each of Kyne's blessings. Doesn't use charges.
 Dravin's Bow does 10 points of stamina damage.
-Firiniel's End deals 20 points of shock damage and turns targets into an ash pile upon death. Disenchanting yields the normal shock enchantment. Doesn't use charges.
+Firiniel's End deals 20 points of shock damage and turns targets into an ash pile upon death.
 Froki's Bow deals 20 damage to animals.
 Gauldur Blackbow absorbs 30 points of stamina.
 Jon's Crossbow deals 1000 damage to anything that carries fruits.
@@ -296,6 +296,7 @@ Harkon wears a Necklace of Nullification and a Ring of Peerless Destruction.
 Amren carries an iron sword.
 
 Amren's Family Sword is a steel scimitar.
+Firiniel's End is a glass bow.
 Longhammer is an iron warhammer.
 Queen Freydis' Sword is an iron sword.
 Staff of Jyrik Gauldurson is a destruction staff.
